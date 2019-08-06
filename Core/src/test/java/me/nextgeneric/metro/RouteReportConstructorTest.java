@@ -7,7 +7,6 @@ import me.nextgeneric.metro.model.Station;
 import me.nextgeneric.metro.route.report.RouteReport;
 import me.nextgeneric.metro.route.report.RouteReportConstructor;
 import me.nextgeneric.metro.route.report.part.RoutePart;
-import org.junit.jupiter.api.Test;
 
 import java.util.List;
 
@@ -22,11 +21,6 @@ class RouteReportConstructorTest {
     private Graph<Station> graph = new WeightedGraph<>(new PlainAdjacencyMatrix(100));
     private RouteReportConstructor routeReportConstructor = new RouteReportConstructor(graph);
 
-    @Test
-    public void whenTwoChangesBasic() {
-
-
-    }
 
 
     private void assertGeneral(RouteReport routeReport, int changes, int stations, int totalTime, int routeParts) {
