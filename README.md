@@ -1,8 +1,14 @@
 # MoscowMetroBot
 
-A simple Telegram bot for planning routes in the Moscow Metropolitan.
+A Telegram bot for planning routes in the Moscow Metro.
 
-# Commands
+# Features
+
+- Construction of detailed text routes between any two stations in the Moscow Metro.
+- Prefix-based station name matching eliminating the need for specifying full station name.
+- Maintenance of statistics for the individual routes and stations.
+
+# Commandst
 
 Besides the route planning, the bot currently supports the following commands:
 
