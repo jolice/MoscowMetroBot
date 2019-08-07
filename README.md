@@ -8,7 +8,7 @@ A Telegram bot for planning routes in the Moscow Metro.
 - Prefix-based station name matching eliminating the need for specifying full station name.
 - Maintenance of statistics for the individual routes and stations.
 
-# Commandst
+# Commands
 
 Besides the route planning, the bot currently supports the following commands:
 
