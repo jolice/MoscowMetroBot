@@ -12,8 +12,8 @@ A Telegram bot for planning routes in the Moscow Metro.
 
 Besides the route planning, the bot currently supports the following commands:
 
-- top: displays stations that are most commonly used in the routes
-- stats: tells the statistics of a route (how many times it was built) or a station (how many routes involve this station)
+- top: displays stations that are most commonly used in the routes.
+- stats: tells the statistics of a route (how many times it was built) or a station (how many routes involve this station).
 
 A command must start with the slash.
 
