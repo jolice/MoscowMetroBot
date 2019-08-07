@@ -1,4 +1,4 @@
-# MoscowMetroBot
+# Moscow Metro Bot
 
 A Telegram bot for planning routes in the Moscow Metro.
 
