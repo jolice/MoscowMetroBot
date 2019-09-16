@@ -14,7 +14,7 @@ public class ReportFrontend {
         StringBuilder reportBuilder = new StringBuilder();
         reportBuilder.append("Route: ").append(stationPair.getLeft()).append(" - ").append(stationPair.getRight()).append(System.lineSeparator());
         reportBuilder.append("Stations: ").append(report.getStations()).append(System.lineSeparator());
-        reportBuilder.append("Total times: ").append(report.getTime()).append(" ").append("мин").append(System.lineSeparator());
+        reportBuilder.append("Total time: ").append(report.getTime()).append(" ").append("мин").append(System.lineSeparator());
         reportBuilder.append("Changes: ").append(report.getChanges()).append(System.lineSeparator()).append(System.lineSeparator());
         reportBuilder.append("Detailed route:").append(System.lineSeparator()).append(System.lineSeparator());
         List<RoutePart> routeParts = report.getRouteParts();
