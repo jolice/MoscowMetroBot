@@ -1,8 +1,10 @@
 language: java
 sudo: false
 
-script:
-  - jdk_switcher use openjdk8
+dist: trusty
+
+jdk:
+  - openjdk8
 
 after_success:
   - bash <(curl -s https://codecov.io/bash)
