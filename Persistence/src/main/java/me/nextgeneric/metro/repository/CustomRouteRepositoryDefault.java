@@ -8,7 +8,6 @@ import javax.persistence.PersistenceContext;
 public class CustomRouteRepositoryDefault implements CustomRouteRepository {
 
     @PersistenceContext
-
     private EntityManager entityManager;
 
     @Override

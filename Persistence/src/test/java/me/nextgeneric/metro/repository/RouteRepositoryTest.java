@@ -1,6 +1,7 @@
 package me.nextgeneric.metro.repository;
 
 import me.nextgeneric.metro.TestConfiguration;
+import me.nextgeneric.metro.config.PersistenceConfig;
 import me.nextgeneric.metro.entity.Route;
 import me.nextgeneric.metro.projection.StationProjection;
 import org.junit.After;
@@ -28,7 +29,7 @@ import java.util.function.Consumer;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 @RunWith(SpringRunner.class)
-@ContextConfiguration(classes = TestConfiguration.class)
+@ContextConfiguration(classes = {TestConfiguration.class, PersistenceConfig.class})
 @DataJpaTest
 @TestPropertySource("classpath:test.properties")
 @Transactional(propagation = Propagation.NEVER)
