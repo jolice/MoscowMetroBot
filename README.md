@@ -3,6 +3,7 @@
 A Telegram bot for planning routes in the Moscow Metro.
 
 [![Build Status](https://travis-ci.org/riguron/MoscowMetroBot.svg?branch=master)](https://travis-ci.org/riguron/MoscowMetroBot)
+[![HitCount](http://hits.dwyl.io/riguron/MoscowMetroBot.svg)](http://hits.dwyl.io/riguron/MoscowMetroBot)
 
 # Features
 
