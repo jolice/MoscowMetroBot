@@ -1,1 +1,1 @@
-worker: sh build.sh
+worker: sh Bootstrap/run/bin/worker
