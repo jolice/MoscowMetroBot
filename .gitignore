@@ -22,7 +22,8 @@
 
 target
 
-maven-metadata-appassembler.xml
+
+**/maven-metadata-appassembler.xml
 .idea
 *.iml
 .DS_Store
