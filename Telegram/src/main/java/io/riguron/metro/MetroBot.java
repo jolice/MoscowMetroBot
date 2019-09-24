@@ -5,7 +5,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.beans.factory.annotation.Value;
+import org.springframework.core.env.Environment;
 import org.springframework.stereotype.Component;
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
@@ -21,11 +21,8 @@ public class MetroBot extends TelegramLongPollingBot {
 
     private MessageHandler messageHandler;
 
-    @Value("#{bot.username}")
-    private String username;
-
-    @Value("#{bot.token}")
-    private String token;
+    @Autowired
+    private Environment environment;
 
     @Autowired
     public MetroBot(@Qualifier("Core") MessageHandler messageHandler) {
@@ -55,11 +52,11 @@ public class MetroBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return username;
+        return environment.getProperty("bot.username");
     }
 
     @Override
     public String getBotToken() {
-        return token;
+        return environment.getProperty("bot.token");
     }
 }
