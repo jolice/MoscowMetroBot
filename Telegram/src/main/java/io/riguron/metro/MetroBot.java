@@ -1,8 +1,6 @@
 package io.riguron.metro;
 
 import io.riguron.metro.message.MessageHandler;
-import io.riguron.metro.message.MessageHandler;
-import io.riguron.metro.message.MessageHandler;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
