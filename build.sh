@@ -1,1 +1,2 @@
-mvn clean install && mvn clean install spring-boot:repackage -pl Bootstrap && java -jar Bootstrap/target/Bootstrap-1.0.jar
+mvn -Dmaven.test.skip package
+git push heroku master

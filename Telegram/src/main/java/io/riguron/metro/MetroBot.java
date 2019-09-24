@@ -1,8 +1,6 @@
 package io.riguron.metro;
 
 import io.riguron.metro.message.MessageHandler;
-import io.riguron.metro.message.MessageHandler;
-import io.riguron.metro.message.MessageHandler;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -23,10 +21,10 @@ public class MetroBot extends TelegramLongPollingBot {
 
     private MessageHandler messageHandler;
 
-    @Value("${bot.username}")
+    @Value("#{bot.username}")
     private String username;
 
-    @Value("${bot.token}")
+    @Value("#{bot.token}")
     private String token;
 
     @Autowired
