@@ -17,6 +17,7 @@ mvn clean install && mvn spring-boot:run -pl Bootstrap -Dbot.token=TOKEN -Dbot.u
 ```
 
 Do not forget to specify your bot's token and username.
+Alternatively, these values may be read from environment variables with the same names (```bot.token``` and ```bot.username```).
 
 # Features
 
