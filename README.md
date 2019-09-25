@@ -13,9 +13,7 @@ To build the project and start the bot, use:
 ```
 git clone git@github.com:riguron/MoscowMetroBot.git
 cd MoscowMetroBot
-mvn clean install && mvn spring-boot:run -pl Bootstrap 
-     -Dbot.token=YOUR_BOT_TOKEN
-     -Dbot.username=YOUR_BOT_USERNAME
+mvn clean install && mvn spring-boot:run -pl Bootstrap -Dbot.token=TOKEN -Dbot.username=BOT_USERNAME
 ```
 
 Do not forget to specify your bot's token and username.
