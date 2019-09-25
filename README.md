@@ -6,6 +6,18 @@ A Telegram bot for planning routes in the Moscow Metro.
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/369ed18d70fd4215926ea0d5fa1bebbe)](https://www.codacy.com/manual/riguron/MoscowMetroBot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=riguron/MoscowMetroBot&amp;utm_campaign=Badge_Grade)
 [![HitCount](http://hits.dwyl.io/riguron/MoscowMetroBot.svg)](http://hits.dwyl.io/riguron/MoscowMetroBot)
 
+# Running
+
+To build the project and start the bot, use:
+
+```
+git clone git@github.com:riguron/MoscowMetroBot.git
+cd MoscowMetroBot
+mvn clean install && mvn spring-boot:run -pl Bootstrap -Dbot.token=YOUR_BOT_TOKEN -Dbot.username=YOUR_BOT_USERNAME
+```
+
+Do not forget to specify your bot's token and username.
+
 # Features
 
 - Construction of detailed text routes between any two stations in the Moscow Metro.
