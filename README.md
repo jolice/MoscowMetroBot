@@ -5,6 +5,8 @@ A Telegram bot for planning routes in the Moscow Metro.
 [![Build Status](https://travis-ci.org/riguron/MoscowMetroBot.svg?branch=master)](https://travis-ci.org/riguron/MoscowMetroBot)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/369ed18d70fd4215926ea0d5fa1bebbe)](https://www.codacy.com/manual/riguron/MoscowMetroBot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=riguron/MoscowMetroBot&amp;utm_campaign=Badge_Grade)
 
+Bot is avaliable at [@Moscow_Metro_Bot](https://telegram.me/moscow_metro_bot)
+
 # Running
 
 To build the project and start the bot, use:
