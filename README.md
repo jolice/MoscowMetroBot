@@ -4,7 +4,21 @@ A Telegram bot for planning routes in the Moscow Metro.
 
 [![Build Status](https://travis-ci.org/riguron/MoscowMetroBot.svg?branch=master)](https://travis-ci.org/riguron/MoscowMetroBot)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/369ed18d70fd4215926ea0d5fa1bebbe)](https://www.codacy.com/manual/riguron/MoscowMetroBot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=riguron/MoscowMetroBot&amp;utm_campaign=Badge_Grade)
-[![HitCount](http://hits.dwyl.io/riguron/MoscowMetroBot.svg)](http://hits.dwyl.io/riguron/MoscowMetroBot)
+
+Bot is avaliable at [@Moscow_Metro_Bot](https://telegram.me/moscow_metro_bot)
+
+# Running
+
+To build the project and start the bot, use:
+
+```
+git clone git@github.com:riguron/MoscowMetroBot.git
+cd MoscowMetroBot
+mvn clean install && mvn spring-boot:run -pl Bootstrap -Dbot.token=TOKEN -Dbot.username=BOT_USERNAME
+```
+
+Do not forget to specify your bot's token and username.
+Alternatively, these values may be read from environment variables: ```bot.token``` and ```bot.username``` respectively.
 
 # Features
 
