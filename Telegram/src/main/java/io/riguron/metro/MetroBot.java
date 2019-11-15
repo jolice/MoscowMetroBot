@@ -52,15 +52,11 @@ public class MetroBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        System.out.println(System.getProperty("bot.username"));
-        System.out.println(environment.getProperty("bot.username"));
         return environment.getProperty("bot.username");
     }
 
     @Override
     public String getBotToken() {
-        System.out.println(System.getProperty("bot.username"));
-        System.out.println(environment.getProperty("bot.username"));
         return environment.getProperty("bot.token");
     }
 }

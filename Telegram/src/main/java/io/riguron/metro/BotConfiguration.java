@@ -24,8 +24,6 @@ public class BotConfiguration {
 
     @PostConstruct
     public void initializeContext() {
-        if(1==1)
-            throw new RuntimeException("ERROR");
         TelegramBotsApi botsApi = new TelegramBotsApi();
         try {
             botsApi.registerBot(metroBot);

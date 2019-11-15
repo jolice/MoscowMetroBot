@@ -14,21 +14,14 @@
     <build>
         <plugins>
             <plugin>
-                <groupId>org.codehaus.mojo</groupId>
-                <artifactId>appassembler-maven-plugin</artifactId>
-                <version>1.1.1</version>
-                <configuration>
-                    <assembleDirectory>run</assembleDirectory>
-                    <programs>
-                        <program>
-                            <mainClass>io.riguron.metro.Bootstrap</mainClass>
-                            <name>worker</name>
-                        </program>
-                    </programs>
-                </configuration>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <version>2.1.8.RELEASE</version>
                 <executions>
                     <execution>
-                        <phase>package</phase><goals><goal>assemble</goal></goals>
+                        <goals>
+                            <goal>repackage</goal>
+                        </goals>
                     </execution>
                 </executions>
             </plugin>

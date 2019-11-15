@@ -1,0 +1,9130 @@
+{
+  "stations": {
+    "1": {
+      "name": "Бульвар Рокоссовского",
+      "lineId": 1.0,
+      "labelId": 1.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 229.0,
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "changes": {
+        "closed": {
+          "type": "full",
+          "visible": true
+        },
+        "hint": "Станция закрыта с 16 по 24 февраля"
+      },
+      "linkIds": [
+        1002.0,
+        1229.0
+      ],
+      "isTransferStation": true
+    },
+    "2": {
+      "name": "Черкизовская",
+      "lineId": 1.0,
+      "labelId": 2.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 228.0,
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "changes": {
+        "closed": {
+          "type": "full",
+          "visible": true
+        },
+        "hint": "Станция закрыта с 16 по 24 февраля. Пользуйтесь бесплатным автобусом КМ"
+      },
+      "linkIds": [
+        1002.0,
+        2003.0,
+        2228.0
+      ],
+      "isTransferStation": true
+    },
+    "3": {
+      "name": "Преображенская площадь",
+      "lineId": 1.0,
+      "labelId": 3.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "changes": {
+        "closed": {
+          "type": "full",
+          "visible": true
+        },
+        "hint": "Станция закрыта с 16 по 24 февраля. Пользуйтесь бесплатным автобусом КМ"
+      },
+      "linkIds": [
+        2003.0,
+        3004.0
+      ]
+    },
+    "4": {
+      "name": "Сокольники",
+      "lineId": 1.0,
+      "labelId": 4.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ]
+      },
+      "changes": {
+        "closed": {
+          "type": "full",
+          "visible": true
+        },
+        "hint": "Станция закрыта с 16 по 24 февраля. Пользуйтесь бесплатным автобусом КМ"
+      },
+      "linkIds": [
+        3004.0,
+        4005.0
+      ]
+    },
+    "5": {
+      "name": "Красносельская",
+      "lineId": 1.0,
+      "labelId": 5.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "changes": {
+        "closed": {
+          "type": "full",
+          "visible": true
+        },
+        "hint": "Станция закрыта с 16 по 24 февраля. Пользуйтесь бесплатным автобусом КМ"
+      },
+      "linkIds": [
+        4005.0,
+        5006.0
+      ]
+    },
+    "6": {
+      "name": "Комсомольская",
+      "lineId": 1.0,
+      "labelId": 6.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 77.0,
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        5006.0,
+        6007.0,
+        6077.0
+      ],
+      "isTransferStation": true
+    },
+    "7": {
+      "name": "Красные Ворота",
+      "lineId": 1.0,
+      "labelId": 7.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        6007.0,
+        7008.0
+      ]
+    },
+    "8": {
+      "name": "Чистые пруды",
+      "lineId": 1.0,
+      "labelId": 8.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 92.0,
+            "pos": [
+              2.0
+            ]
+          },
+          {
+            "toSt": 159.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        7008.0,
+        8009.0,
+        8092.0,
+        8159.0
+      ],
+      "isTransferStation": true
+    },
+    "9": {
+      "name": "Лубянка",
+      "lineId": 1.0,
+      "labelId": 9.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 117.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        8009.0,
+        9010.0,
+        9117.0
+      ],
+      "isTransferStation": true
+    },
+    "10": {
+      "name": "Охотный Ряд",
+      "lineId": 1.0,
+      "labelId": 10.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 29.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        9010.0,
+        10011.0,
+        10029.0
+      ],
+      "isTransferStation": true
+    },
+    "11": {
+      "name": "Библиотека имени Ленина",
+      "lineId": 1.0,
+      "labelId": 11.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              3.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 49.0,
+            "pos": [
+              3.0,
+              4.0
+            ]
+          },
+          {
+            "toSt": 68.0,
+            "pos": [
+              3.0,
+              4.0
+            ]
+          },
+          {
+            "toSt": 144.0,
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        10011.0,
+        11012.0,
+        11049.0,
+        11068.0,
+        11144.0
+      ],
+      "isTransferStation": true
+    },
+    "12": {
+      "name": "Кропоткинская",
+      "lineId": 1.0,
+      "labelId": 12.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        11012.0,
+        12013.0
+      ]
+    },
+    "13": {
+      "name": "Парк культуры",
+      "lineId": 1.0,
+      "labelId": 13.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 71.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        12013.0,
+        13014.0,
+        13071.0
+      ],
+      "isTransferStation": true
+    },
+    "14": {
+      "name": "Фрунзенская",
+      "lineId": 1.0,
+      "labelId": 14.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        13014.0,
+        14015.0
+      ]
+    },
+    "15": {
+      "name": "Спортивная",
+      "lineId": 1.0,
+      "labelId": 15.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 214.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        14015.0,
+        15016.0,
+        15214.0
+      ],
+      "isTransferStation": true
+    },
+    "16": {
+      "name": "Воробьёвы горы",
+      "lineId": 1.0,
+      "labelId": 16.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        15016.0,
+        16017.0
+      ]
+    },
+    "17": {
+      "name": "Университет",
+      "lineId": 1.0,
+      "labelId": 17.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              3.0,
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        16017.0,
+        17018.0
+      ]
+    },
+    "18": {
+      "name": "Проспект Вернадского",
+      "lineId": 1.0,
+      "labelId": 18.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        17018.0,
+        18019.0
+      ]
+    },
+    "19": {
+      "name": "Юго-Западная",
+      "lineId": 1.0,
+      "labelId": 19.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        18019.0,
+        19196.0
+      ]
+    },
+    "20": {
+      "name": "Речной вокзал",
+      "lineId": 2.0,
+      "labelId": 20.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        20021.0,
+        20257.0
+      ]
+    },
+    "21": {
+      "name": "Водный стадион",
+      "lineId": 2.0,
+      "labelId": 21.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        20021.0,
+        21022.0
+      ]
+    },
+    "22": {
+      "name": "Войковская",
+      "lineId": 2.0,
+      "labelId": 22.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 206.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        21022.0,
+        22023.0,
+        22206.0
+      ],
+      "isTransferStation": true
+    },
+    "23": {
+      "name": "Сокол",
+      "lineId": 2.0,
+      "labelId": 23.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              2.0,
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        22023.0,
+        23024.0
+      ]
+    },
+    "24": {
+      "name": "Аэропорт",
+      "lineId": 2.0,
+      "labelId": 24.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        23024.0,
+        24025.0
+      ]
+    },
+    "25": {
+      "name": "Динамо",
+      "lineId": 2.0,
+      "labelId": 25.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 242.0,
+            "pos": [
+              4.0
+            ]
+          },
+          {
+            "toSt": 245.0,
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        24025.0,
+        25026.0,
+        25242.0,
+        25245.0
+      ],
+      "isTransferStation": true
+    },
+    "26": {
+      "name": "Белорусская",
+      "lineId": 2.0,
+      "labelId": 26.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 80.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        25026.0,
+        26027.0,
+        26080.0
+      ],
+      "isTransferStation": true
+    },
+    "27": {
+      "name": "Маяковская",
+      "lineId": 2.0,
+      "labelId": 27.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        26027.0,
+        27028.0
+      ]
+    },
+    "28": {
+      "name": "Тверская",
+      "lineId": 2.0,
+      "labelId": 28.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 116.0,
+            "pos": [
+              4.0
+            ]
+          },
+          {
+            "toSt": 143.0,
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        27028.0,
+        28029.0,
+        28116.0,
+        28143.0
+      ],
+      "isTransferStation": true
+    },
+    "29": {
+      "name": "Театральная",
+      "lineId": 2.0,
+      "labelId": 29.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 10.0,
+            "pos": [
+              3.0
+            ]
+          },
+          {
+            "toSt": 48.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        10029.0,
+        28029.0,
+        29030.0,
+        29048.0
+      ],
+      "isTransferStation": true
+    },
+    "30": {
+      "name": "Новокузнецкая",
+      "lineId": 2.0,
+      "labelId": 30.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 94.0,
+            "nextSt": 95.0,
+            "pos": [
+              3.0
+            ]
+          },
+          {
+            "toSt": 94.0,
+            "nextSt": 93.0,
+            "pos": [
+              2.0
+            ]
+          },
+          {
+            "toSt": 132.0,
+            "pos": [
+              2.0,
+              3.0
+            ]
+          },
+          {
+            "toSt": 132.0,
+            "nextSt": 131.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        29030.0,
+        30031.0,
+        30094.0,
+        30132.0
+      ],
+      "isTransferStation": true
+    },
+    "31": {
+      "name": "Павелецкая",
+      "lineId": 2.0,
+      "labelId": 31.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              2.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 74.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        30031.0,
+        31032.0,
+        31074.0
+      ],
+      "isTransferStation": true
+    },
+    "32": {
+      "name": "Автозаводская",
+      "lineId": 2.0,
+      "labelId": 32.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 219.0,
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        31032.0,
+        32198.0,
+        32219.0
+      ],
+      "isTransferStation": true
+    },
+    "33": {
+      "name": "Коломенская",
+      "lineId": 2.0,
+      "labelId": 33.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        33034.0,
+        198033.0
+      ]
+    },
+    "34": {
+      "name": "Каширская",
+      "lineId": 2.0,
+      "labelId": 34.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "prevSt": 33.0,
+            "toSt": 170.0,
+            "nextSt": 171.0,
+            "pos": [
+              1.0,
+              2.0,
+              3.0,
+              4.0,
+              5.0
+            ]
+          },
+          {
+            "prevSt": 35.0,
+            "toSt": 170.0,
+            "nextSt": 171.0,
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        33034.0,
+        34035.0,
+        34170.0
+      ],
+      "isTransferStation": true
+    },
+    "35": {
+      "name": "Кантемировская",
+      "lineId": 2.0,
+      "labelId": 35.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        34035.0,
+        35036.0
+      ]
+    },
+    "36": {
+      "name": "Царицыно",
+      "lineId": 2.0,
+      "labelId": 36.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        35036.0,
+        36037.0
+      ]
+    },
+    "37": {
+      "name": "Орехово",
+      "lineId": 2.0,
+      "labelId": 37.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        36037.0,
+        37038.0
+      ]
+    },
+    "38": {
+      "name": "Домодедовская",
+      "lineId": 2.0,
+      "labelId": 38.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        37038.0,
+        38039.0
+      ]
+    },
+    "39": {
+      "name": "Красногвардейская",
+      "lineId": 2.0,
+      "labelId": 39.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 185.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        38039.0,
+        39185.0,
+        39187.0
+      ],
+      "isTransferStation": true
+    },
+    "40": {
+      "name": "Щёлковская",
+      "lineId": 3.0,
+      "labelId": 40.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        40041.0
+      ]
+    },
+    "41": {
+      "name": "Первомайская",
+      "lineId": 3.0,
+      "labelId": 41.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        40041.0,
+        41042.0
+      ]
+    },
+    "42": {
+      "name": "Измайловская",
+      "lineId": 3.0,
+      "labelId": 42.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        41042.0,
+        42043.0
+      ]
+    },
+    "43": {
+      "name": "Партизанская",
+      "lineId": 3.0,
+      "labelId": 43.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 227.0,
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        42043.0,
+        43044.0,
+        43227.0
+      ],
+      "isTransferStation": true
+    },
+    "44": {
+      "name": "Семёновская",
+      "lineId": 3.0,
+      "labelId": 44.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        43044.0,
+        44045.0
+      ]
+    },
+    "45": {
+      "name": "Электрозаводская",
+      "lineId": 3.0,
+      "labelId": 45.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        44045.0,
+        45046.0
+      ]
+    },
+    "46": {
+      "name": "Бауманская",
+      "lineId": 3.0,
+      "labelId": 46.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        45046.0,
+        46047.0
+      ]
+    },
+    "47": {
+      "name": "Курская",
+      "lineId": 3.0,
+      "labelId": 47.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 76.0,
+            "pos": [
+              2.0
+            ]
+          },
+          {
+            "toSt": 160.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        46047.0,
+        47048.0,
+        47076.0,
+        47160.0
+      ],
+      "isTransferStation": true
+    },
+    "48": {
+      "name": "Площадь Революции",
+      "lineId": 3.0,
+      "labelId": 48.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 29.0,
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        29048.0,
+        47048.0,
+        48049.0
+      ],
+      "isTransferStation": true
+    },
+    "49": {
+      "name": "Арбатская",
+      "lineId": 3.0,
+      "labelId": 49.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 11.0,
+            "pos": [
+              5.0
+            ]
+          },
+          {
+            "toSt": 68.0,
+            "pos": [
+              5.0
+            ]
+          },
+          {
+            "toSt": 144.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        11049.0,
+        48049.0,
+        49050.0,
+        49068.0,
+        49144.0
+      ],
+      "isTransferStation": true
+    },
+    "50": {
+      "name": "Смоленская",
+      "lineId": 3.0,
+      "labelId": 50.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        49050.0,
+        50051.0
+      ]
+    },
+    "51": {
+      "name": "Киевская",
+      "lineId": 3.0,
+      "labelId": 51.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 82.0,
+            "pos": [
+              4.0
+            ]
+          },
+          {
+            "toSt": 65.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        50051.0,
+        51052.0,
+        51065.0,
+        51082.0
+      ],
+      "isTransferStation": true
+    },
+    "52": {
+      "name": "Парк Победы",
+      "lineId": 3.0,
+      "labelId": 52.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "prevSt": 51.0,
+            "toSt": 194.0,
+            "nextSt": 235.0,
+            "pos": [
+              1.0,
+              2.0,
+              3.0,
+              4.0,
+              5.0
+            ]
+          },
+          {
+            "prevSt": 51.0,
+            "toSt": 194.0,
+            "nextSt": 193.0,
+            "pos": [
+              2.0,
+              4.0
+            ]
+          },
+          {
+            "prevSt": 53.0,
+            "toSt": 194.0,
+            "nextSt": 193.0,
+            "pos": [
+              1.0,
+              2.0,
+              3.0,
+              4.0,
+              5.0
+            ]
+          },
+          {
+            "prevSt": 53.0,
+            "toSt": 194.0,
+            "nextSt": 235.0,
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        51052.0,
+        52053.0,
+        52194.0
+      ],
+      "isTransferStation": true
+    },
+    "53": {
+      "name": "Славянский бульвар",
+      "lineId": 3.0,
+      "labelId": 53.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        52053.0,
+        53054.0
+      ]
+    },
+    "54": {
+      "name": "Кунцевская",
+      "lineId": 3.0,
+      "labelId": 54.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 58.0,
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "changes": {
+        "hint": "Поезда из центра не останавливаются"
+      },
+      "linkIds": [
+        53054.0,
+        54055.0,
+        54058.0
+      ],
+      "isTransferStation": true
+    },
+    "55": {
+      "name": "Молодёжная",
+      "lineId": 3.0,
+      "labelId": 55.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        54055.0,
+        55056.0
+      ]
+    },
+    "56": {
+      "name": "Крылатское",
+      "lineId": 3.0,
+      "labelId": 56.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        55056.0,
+        56057.0
+      ]
+    },
+    "57": {
+      "name": "Строгино",
+      "lineId": 3.0,
+      "labelId": 57.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        56057.0,
+        57178.0
+      ]
+    },
+    "58": {
+      "name": "Кунцевская",
+      "lineId": 4.0,
+      "labelId": 54.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 54.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "changes": {
+        "hint": "Нет высадки из последних трёх вагонов при движении из центра. Выход со станции через соседнюю платформу"
+      },
+      "linkIds": [
+        54058.0,
+        58059.0
+      ],
+      "isTransferStation": true
+    },
+    "59": {
+      "name": "Пионерская",
+      "lineId": 4.0,
+      "labelId": 59.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        58059.0,
+        59060.0
+      ]
+    },
+    "60": {
+      "name": "Филёвский парк",
+      "lineId": 4.0,
+      "labelId": 60.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "changes": {
+        "hint": "Западный вестибюль закрыт на ремонт"
+      },
+      "linkIds": [
+        59060.0,
+        60061.0
+      ]
+    },
+    "61": {
+      "name": "Багратионовская",
+      "lineId": 4.0,
+      "labelId": 61.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "changes": {
+        "hint": "Восточный вестибюль закрыт на ремонт"
+      },
+      "linkIds": [
+        60061.0,
+        61062.0
+      ]
+    },
+    "62": {
+      "name": "Фили",
+      "lineId": 4.0,
+      "labelId": 62.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        61062.0,
+        62063.0
+      ]
+    },
+    "63": {
+      "name": "Кутузовская",
+      "lineId": 4.0,
+      "labelId": 63.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 213.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        62063.0,
+        63064.0,
+        63213.0
+      ],
+      "isTransferStation": true
+    },
+    "64": {
+      "name": "Студенческая",
+      "lineId": 4.0,
+      "labelId": 64.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        63064.0,
+        64065.0
+      ]
+    },
+    "65": {
+      "name": "Киевская",
+      "lineId": 4.0,
+      "labelId": 51.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 82.0,
+            "pos": [
+              1.0
+            ]
+          },
+          {
+            "toSt": 51.0,
+            "pos": [
+              5.0
+            ]
+          },
+          {
+            "prevSt": 69.0,
+            "toSt": 82.0,
+            "pos": [
+              1.0
+            ]
+          },
+          {
+            "prevSt": 69.0,
+            "toSt": 51.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        51065.0,
+        64065.0,
+        65066.0,
+        65069.0,
+        65082.0
+      ],
+      "isTransferStation": true
+    },
+    "66": {
+      "name": "Смоленская",
+      "lineId": 4.0,
+      "labelId": 66.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        65066.0,
+        66067.0
+      ]
+    },
+    "67": {
+      "name": "Арбатская",
+      "lineId": 4.0,
+      "labelId": 67.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        66067.0,
+        67068.0
+      ]
+    },
+    "68": {
+      "name": "Александровский сад",
+      "lineId": 4.0,
+      "labelId": 68.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 11.0,
+            "pos": [
+              1.0
+            ]
+          },
+          {
+            "toSt": 49.0,
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        11068.0,
+        49068.0,
+        67068.0
+      ],
+      "isTransferStation": true
+    },
+    "69": {
+      "name": "Выставочная",
+      "lineId": 4.0,
+      "labelId": 69.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 238.0,
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        65069.0,
+        69070.0,
+        69238.0
+      ],
+      "isTransferStation": true
+    },
+    "70": {
+      "name": "Международная",
+      "lineId": 4.0,
+      "labelId": 70.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 212.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        69070.0,
+        70212.0
+      ],
+      "isTransferStation": true
+    },
+    "71": {
+      "name": "Парк культуры",
+      "lineId": 5.0,
+      "labelId": 13.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          },
+          {
+            "prevSt": 72.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 13.0,
+            "pos": [
+              2.0
+            ]
+          },
+          {
+            "prevSt": 72.0,
+            "toSt": 13.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        13071.0,
+        71072.0,
+        82071.0
+      ],
+      "isTransferStation": true
+    },
+    "72": {
+      "name": "Октябрьская",
+      "lineId": 5.0,
+      "labelId": 72.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              3.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 95.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        71072.0,
+        72073.0,
+        72095.0
+      ],
+      "isTransferStation": true
+    },
+    "73": {
+      "name": "Добрынинская",
+      "lineId": 5.0,
+      "labelId": 73.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "prevSt": 72.0,
+            "toSt": 146.0,
+            "pos": [
+              4.0
+            ]
+          },
+          {
+            "prevSt": 74.0,
+            "toSt": 146.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        72073.0,
+        73074.0,
+        73146.0
+      ],
+      "isTransferStation": true
+    },
+    "74": {
+      "name": "Павелецкая",
+      "lineId": 5.0,
+      "labelId": 31.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 31.0,
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        31074.0,
+        73074.0,
+        74075.0
+      ],
+      "isTransferStation": true
+    },
+    "75": {
+      "name": "Таганская",
+      "lineId": 5.0,
+      "labelId": 75.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 119.0,
+            "pos": [
+              4.0
+            ]
+          },
+          {
+            "prevSt": 74.0,
+            "toSt": 131.0,
+            "pos": [
+              4.0
+            ]
+          },
+          {
+            "prevSt": 76.0,
+            "toSt": 131.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        74075.0,
+        75076.0,
+        75119.0,
+        75131.0
+      ],
+      "isTransferStation": true
+    },
+    "76": {
+      "name": "Курская",
+      "lineId": 5.0,
+      "labelId": 47.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 47.0,
+            "pos": [
+              3.0
+            ]
+          },
+          {
+            "toSt": 160.0,
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        47076.0,
+        75076.0,
+        76077.0,
+        76160.0
+      ],
+      "isTransferStation": true
+    },
+    "77": {
+      "name": "Комсомольская",
+      "lineId": 5.0,
+      "labelId": 6.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 6.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        6077.0,
+        76077.0,
+        77078.0
+      ],
+      "isTransferStation": true
+    },
+    "78": {
+      "name": "Проспект Мира",
+      "lineId": 5.0,
+      "labelId": 78.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 90.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        77078.0,
+        78079.0,
+        78090.0
+      ],
+      "isTransferStation": true
+    },
+    "79": {
+      "name": "Новослободская",
+      "lineId": 5.0,
+      "labelId": 79.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 141.0,
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        78079.0,
+        79080.0,
+        79141.0
+      ],
+      "isTransferStation": true
+    },
+    "80": {
+      "name": "Белорусская",
+      "lineId": 5.0,
+      "labelId": 26.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 26.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        26080.0,
+        79080.0,
+        80081.0
+      ],
+      "isTransferStation": true
+    },
+    "81": {
+      "name": "Краснопресненская",
+      "lineId": 5.0,
+      "labelId": 81.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 115.0,
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        80081.0,
+        81082.0,
+        81115.0
+      ],
+      "isTransferStation": true
+    },
+    "82": {
+      "name": "Киевская",
+      "lineId": 5.0,
+      "labelId": 51.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              3.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 51.0,
+            "pos": [
+              2.0
+            ]
+          },
+          {
+            "toSt": 65.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        51082.0,
+        65082.0,
+        81082.0,
+        82071.0
+      ],
+      "isTransferStation": true
+    },
+    "83": {
+      "name": "Медведково",
+      "lineId": 6.0,
+      "labelId": 83.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        83084.0
+      ]
+    },
+    "84": {
+      "name": "Бабушкинская",
+      "lineId": 6.0,
+      "labelId": 84.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        83084.0,
+        84085.0
+      ]
+    },
+    "85": {
+      "name": "Свиблово",
+      "lineId": 6.0,
+      "labelId": 85.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        84085.0,
+        85086.0
+      ]
+    },
+    "86": {
+      "name": "Ботанический сад",
+      "lineId": 6.0,
+      "labelId": 86.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 201.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        85086.0,
+        86087.0,
+        86201.0
+      ],
+      "isTransferStation": true
+    },
+    "87": {
+      "name": "ВДНХ",
+      "lineId": 6.0,
+      "labelId": 87.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        86087.0,
+        87088.0
+      ]
+    },
+    "88": {
+      "name": "Алексеевская",
+      "lineId": 6.0,
+      "labelId": 88.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        87088.0,
+        88089.0
+      ]
+    },
+    "89": {
+      "name": "Рижская",
+      "lineId": 6.0,
+      "labelId": 89.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        88089.0,
+        89090.0
+      ]
+    },
+    "90": {
+      "name": "Проспект Мира",
+      "lineId": 6.0,
+      "labelId": 78.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              3.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 78.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        78090.0,
+        89090.0,
+        90091.0
+      ],
+      "isTransferStation": true
+    },
+    "91": {
+      "name": "Сухаревская",
+      "lineId": 6.0,
+      "labelId": 91.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        90091.0,
+        91092.0
+      ]
+    },
+    "92": {
+      "name": "Тургеневская",
+      "lineId": 6.0,
+      "labelId": 92.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 8.0,
+            "pos": [
+              3.0
+            ]
+          },
+          {
+            "toSt": 159.0,
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        8092.0,
+        91092.0,
+        92093.0,
+        92159.0
+      ],
+      "isTransferStation": true
+    },
+    "93": {
+      "name": "Китай-город",
+      "lineId": 6.0,
+      "labelId": 93.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "prevSt": 92.0,
+            "toSt": 118.0,
+            "nextSt": 119.0,
+            "pos": [
+              1.0,
+              2.0,
+              3.0,
+              4.0,
+              5.0
+            ]
+          },
+          {
+            "prevSt": 92.0,
+            "toSt": 118.0,
+            "nextSt": 117.0,
+            "pos": [
+              3.0
+            ]
+          },
+          {
+            "prevSt": 94.0,
+            "toSt": 118.0,
+            "nextSt": 119.0,
+            "pos": [
+              3.0
+            ]
+          },
+          {
+            "prevSt": 94.0,
+            "toSt": 118.0,
+            "nextSt": 117.0,
+            "pos": [
+              1.0,
+              2.0,
+              3.0,
+              4.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        92093.0,
+        93094.0,
+        93118.0
+      ],
+      "isTransferStation": true
+    },
+    "94": {
+      "name": "Третьяковская",
+      "lineId": 6.0,
+      "labelId": 94.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "prevSt": 93.0,
+            "toSt": 30.0,
+            "pos": [
+              4.0
+            ]
+          },
+          {
+            "prevSt": 95.0,
+            "toSt": 30.0,
+            "pos": [
+              3.0
+            ]
+          },
+          {
+            "prevSt": 95.0,
+            "toSt": 132.0,
+            "nextSt": 131.0,
+            "pos": [
+              2.0,
+              3.0,
+              4.0
+            ]
+          },
+          {
+            "prevSt": 93.0,
+            "toSt": 132.0,
+            "nextSt": 131.0,
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        30094.0,
+        93094.0,
+        94095.0,
+        94132.0
+      ],
+      "isTransferStation": true
+    },
+    "95": {
+      "name": "Октябрьская",
+      "lineId": 6.0,
+      "labelId": 72.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 72.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        72095.0,
+        94095.0,
+        95096.0
+      ],
+      "isTransferStation": true
+    },
+    "96": {
+      "name": "Шаболовская",
+      "lineId": 6.0,
+      "labelId": 96.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        95096.0,
+        96097.0
+      ]
+    },
+    "97": {
+      "name": "Ленинский проспект",
+      "lineId": 6.0,
+      "labelId": 97.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 215.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        96097.0,
+        97098.0,
+        97215.0
+      ],
+      "isTransferStation": true
+    },
+    "98": {
+      "name": "Академическая",
+      "lineId": 6.0,
+      "labelId": 98.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        97098.0,
+        98099.0
+      ]
+    },
+    "99": {
+      "name": "Профсоюзная",
+      "lineId": 6.0,
+      "labelId": 99.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        98099.0,
+        99100.0
+      ]
+    },
+    "100": {
+      "name": "Новые Черёмушки",
+      "lineId": 6.0,
+      "labelId": 100.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        99100.0,
+        100101.0
+      ]
+    },
+    "101": {
+      "name": "Калужская",
+      "lineId": 6.0,
+      "labelId": 101.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        100101.0,
+        101102.0
+      ]
+    },
+    "102": {
+      "name": "Беляево",
+      "lineId": 6.0,
+      "labelId": 102.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        101102.0,
+        102103.0
+      ]
+    },
+    "103": {
+      "name": "Коньково",
+      "lineId": 6.0,
+      "labelId": 103.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        102103.0,
+        103104.0
+      ]
+    },
+    "104": {
+      "name": "Тёплый Стан",
+      "lineId": 6.0,
+      "labelId": 104.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        103104.0,
+        104105.0
+      ]
+    },
+    "105": {
+      "name": "Ясенево",
+      "lineId": 6.0,
+      "labelId": 105.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        104105.0,
+        105106.0
+      ]
+    },
+    "106": {
+      "name": "Новоясеневская",
+      "lineId": 6.0,
+      "labelId": 106.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 191.0,
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        105106.0,
+        106191.0
+      ],
+      "isTransferStation": true
+    },
+    "107": {
+      "name": "Планерная",
+      "lineId": 7.0,
+      "labelId": 107.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        107108.0
+      ]
+    },
+    "108": {
+      "name": "Сходненская",
+      "lineId": 7.0,
+      "labelId": 108.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        107108.0,
+        108109.0
+      ]
+    },
+    "109": {
+      "name": "Тушинская",
+      "lineId": 7.0,
+      "labelId": 109.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        108109.0,
+        109195.0
+      ]
+    },
+    "110": {
+      "name": "Щукинская",
+      "lineId": 7.0,
+      "labelId": 110.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        110111.0,
+        195110.0
+      ]
+    },
+    "111": {
+      "name": "Октябрьское Поле",
+      "lineId": 7.0,
+      "labelId": 111.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 208.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        110111.0,
+        111112.0,
+        111208.0
+      ],
+      "isTransferStation": true
+    },
+    "112": {
+      "name": "Полежаевская",
+      "lineId": 7.0,
+      "labelId": 112.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 210.0,
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "changes": {
+        "hint": "Западный вестибюль закрыт на ремонт"
+      },
+      "linkIds": [
+        111112.0,
+        112113.0,
+        112210.0,
+        112240.0,
+        112243.0
+      ],
+      "isTransferStation": true
+    },
+    "113": {
+      "name": "Беговая",
+      "lineId": 7.0,
+      "labelId": 113.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        112113.0,
+        113114.0
+      ]
+    },
+    "114": {
+      "name": "Улица 1905 года",
+      "lineId": 7.0,
+      "labelId": 114.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "changes": {
+        "hint": "Южный вестибюль работает только на выход с 08:00 до 10:00 и только на вход с 18:00 до 19:00"
+      },
+      "linkIds": [
+        113114.0,
+        114115.0
+      ]
+    },
+    "115": {
+      "name": "Баррикадная",
+      "lineId": 7.0,
+      "labelId": 115.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 81.0,
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        81115.0,
+        114115.0,
+        115116.0
+      ],
+      "isTransferStation": true
+    },
+    "116": {
+      "name": "Пушкинская",
+      "lineId": 7.0,
+      "labelId": 116.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 28.0,
+            "pos": [
+              3.0
+            ]
+          },
+          {
+            "toSt": 143.0,
+            "pos": [
+              1.0,
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        28116.0,
+        115116.0,
+        116117.0,
+        116143.0
+      ],
+      "isTransferStation": true
+    },
+    "117": {
+      "name": "Кузнецкий Мост",
+      "lineId": 7.0,
+      "labelId": 117.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 9.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        9117.0,
+        116117.0,
+        117118.0
+      ],
+      "isTransferStation": true
+    },
+    "118": {
+      "name": "Китай-город",
+      "lineId": 7.0,
+      "labelId": 93.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "prevSt": 117.0,
+            "toSt": 93.0,
+            "nextSt": 94.0,
+            "pos": [
+              1.0,
+              2.0,
+              3.0,
+              4.0,
+              5.0
+            ]
+          },
+          {
+            "prevSt": 117.0,
+            "toSt": 93.0,
+            "nextSt": 92.0,
+            "pos": [
+              3.0
+            ]
+          },
+          {
+            "prevSt": 119.0,
+            "toSt": 93.0,
+            "nextSt": 94.0,
+            "pos": [
+              3.0
+            ]
+          },
+          {
+            "prevSt": 119.0,
+            "toSt": 93.0,
+            "nextSt": 92.0,
+            "pos": [
+              1.0,
+              2.0,
+              3.0,
+              4.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        93118.0,
+        117118.0,
+        118119.0
+      ],
+      "isTransferStation": true
+    },
+    "119": {
+      "name": "Таганская",
+      "lineId": 7.0,
+      "labelId": 75.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 75.0,
+            "pos": [
+              4.0
+            ]
+          },
+          {
+            "toSt": 131.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        75119.0,
+        118119.0,
+        119120.0,
+        119131.0
+      ],
+      "isTransferStation": true
+    },
+    "120": {
+      "name": "Пролетарская",
+      "lineId": 7.0,
+      "labelId": 120.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 162.0,
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        119120.0,
+        120121.0,
+        120162.0
+      ],
+      "isTransferStation": true
+    },
+    "121": {
+      "name": "Волгоградский проспект",
+      "lineId": 7.0,
+      "labelId": 121.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        120121.0,
+        121122.0
+      ]
+    },
+    "122": {
+      "name": "Текстильщики",
+      "lineId": 7.0,
+      "labelId": 122.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        121122.0,
+        122123.0
+      ]
+    },
+    "123": {
+      "name": "Кузьминки",
+      "lineId": 7.0,
+      "labelId": 123.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "changes": {
+        "hint": "С 07:00 до 10:00 восточный вестибюль работает только на вход"
+      },
+      "linkIds": [
+        122123.0,
+        123124.0
+      ]
+    },
+    "124": {
+      "name": "Рязанский проспект",
+      "lineId": 7.0,
+      "labelId": 124.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "changes": {
+        "hint": "Восточный вестибюль работает только на вход"
+      },
+      "linkIds": [
+        123124.0,
+        124125.0
+      ]
+    },
+    "125": {
+      "name": "Выхино",
+      "lineId": 7.0,
+      "labelId": 125.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        124125.0,
+        125189.0
+      ]
+    },
+    "126": {
+      "name": "Новогиреево",
+      "lineId": 8.0,
+      "labelId": 126.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        126127.0,
+        186126.0
+      ]
+    },
+    "127": {
+      "name": "Перово",
+      "lineId": 8.0,
+      "labelId": 127.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        126127.0,
+        127128.0
+      ]
+    },
+    "128": {
+      "name": "Шоссе Энтузиастов",
+      "lineId": 8.0,
+      "labelId": 128.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 225.0,
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        127128.0,
+        128129.0,
+        128225.0
+      ],
+      "isTransferStation": true
+    },
+    "129": {
+      "name": "Авиамоторная",
+      "lineId": 8.0,
+      "labelId": 129.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        128129.0,
+        129130.0
+      ]
+    },
+    "130": {
+      "name": "Площадь Ильича",
+      "lineId": 8.0,
+      "labelId": 130.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "prevSt": 129.0,
+            "toSt": 161.0,
+            "pos": [
+              3.0
+            ]
+          },
+          {
+            "prevSt": 131.0,
+            "toSt": 161.0,
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        129130.0,
+        130131.0,
+        130161.0
+      ],
+      "isTransferStation": true
+    },
+    "131": {
+      "name": "Марксистская",
+      "lineId": 8.0,
+      "labelId": 131.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 75.0,
+            "pos": [
+              2.0
+            ]
+          },
+          {
+            "toSt": 119.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        75131.0,
+        119131.0,
+        130131.0,
+        131132.0
+      ],
+      "isTransferStation": true
+    },
+    "132": {
+      "name": "Третьяковская",
+      "lineId": 8.0,
+      "labelId": 94.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "prevSt": 131.0,
+            "toSt": 30.0,
+            "pos": [
+              4.0
+            ]
+          },
+          {
+            "prevSt": 131.0,
+            "toSt": 94.0,
+            "nextSt": 95.0,
+            "pos": [
+              2.0,
+              3.0,
+              4.0
+            ]
+          },
+          {
+            "prevSt": 131.0,
+            "toSt": 94.0,
+            "nextSt": 93.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        30132.0,
+        94132.0,
+        131132.0
+      ],
+      "isTransferStation": true
+    },
+    "133": {
+      "name": "Алтуфьево",
+      "lineId": 9.0,
+      "labelId": 133.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        133134.0
+      ]
+    },
+    "134": {
+      "name": "Бибирево",
+      "lineId": 9.0,
+      "labelId": 134.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        133134.0,
+        134135.0
+      ]
+    },
+    "135": {
+      "name": "Отрадное",
+      "lineId": 9.0,
+      "labelId": 135.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        134135.0,
+        135136.0
+      ]
+    },
+    "136": {
+      "name": "Владыкино",
+      "lineId": 9.0,
+      "labelId": 136.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 202.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        135136.0,
+        136137.0,
+        136202.0
+      ],
+      "isTransferStation": true
+    },
+    "137": {
+      "name": "Петровско-Разумовская",
+      "lineId": 9.0,
+      "labelId": 234.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "prevSt": 136.0,
+            "pos": [
+              4.0
+            ]
+          },
+          {
+            "prevSt": 138.0,
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "prevSt": 136.0,
+            "toSt": 234.0,
+            "nextSt": 233.0,
+            "pos": [
+              1.0,
+              2.0,
+              3.0,
+              4.0,
+              5.0
+            ]
+          },
+          {
+            "prevSt": 138.0,
+            "toSt": 234.0,
+            "nextSt": 233.0,
+            "pos": [
+              2.0,
+              4.0
+            ]
+          },
+          {
+            "prevSt": 136.0,
+            "toSt": 234.0,
+            "nextSt": 247.0,
+            "pos": [
+              2.0,
+              4.0
+            ]
+          },
+          {
+            "prevSt": 138.0,
+            "toSt": 234.0,
+            "nextSt": 247.0,
+            "pos": [
+              1.0,
+              2.0,
+              3.0,
+              4.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        136137.0,
+        137138.0,
+        234137.0
+      ],
+      "isTransferStation": true
+    },
+    "138": {
+      "name": "Тимирязевская",
+      "lineId": 9.0,
+      "labelId": 138.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        137138.0,
+        138139.0
+      ]
+    },
+    "139": {
+      "name": "Дмитровская",
+      "lineId": 9.0,
+      "labelId": 139.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        138139.0,
+        139140.0
+      ]
+    },
+    "140": {
+      "name": "Савёловская",
+      "lineId": 9.0,
+      "labelId": 140.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 258.0,
+            "pos": [
+              3.0
+            ]
+          },
+          {
+            "toSt": 259.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        139140.0,
+        140141.0,
+        258140.0,
+        259140.0
+      ],
+      "isTransferStation": true
+    },
+    "141": {
+      "name": "Менделеевская",
+      "lineId": 9.0,
+      "labelId": 141.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 79.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        79141.0,
+        140141.0,
+        141142.0
+      ],
+      "isTransferStation": true
+    },
+    "142": {
+      "name": "Цветной бульвар",
+      "lineId": 9.0,
+      "labelId": 142.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 158.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        141142.0,
+        142143.0,
+        142158.0
+      ],
+      "isTransferStation": true
+    },
+    "143": {
+      "name": "Чеховская",
+      "lineId": 9.0,
+      "labelId": 143.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 28.0,
+            "pos": [
+              2.0
+            ]
+          },
+          {
+            "toSt": 116.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        28143.0,
+        116143.0,
+        142143.0,
+        143144.0
+      ],
+      "isTransferStation": true
+    },
+    "144": {
+      "name": "Боровицкая",
+      "lineId": 9.0,
+      "labelId": 144.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 11.0,
+            "pos": [
+              2.0
+            ]
+          },
+          {
+            "toSt": 49.0,
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        11144.0,
+        49144.0,
+        143144.0,
+        144145.0
+      ],
+      "isTransferStation": true
+    },
+    "145": {
+      "name": "Полянка",
+      "lineId": 9.0,
+      "labelId": 145.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        144145.0,
+        145146.0
+      ]
+    },
+    "146": {
+      "name": "Серпуховская",
+      "lineId": 9.0,
+      "labelId": 146.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "prevSt": 147.0,
+            "toSt": 73.0,
+            "pos": [
+              3.0
+            ]
+          },
+          {
+            "prevSt": 145.0,
+            "toSt": 73.0,
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        73146.0,
+        145146.0,
+        146147.0
+      ],
+      "isTransferStation": true
+    },
+    "147": {
+      "name": "Тульская",
+      "lineId": 9.0,
+      "labelId": 147.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        146147.0,
+        147148.0
+      ]
+    },
+    "148": {
+      "name": "Нагатинская",
+      "lineId": 9.0,
+      "labelId": 148.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 217.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        147148.0,
+        148149.0,
+        148217.0
+      ],
+      "isTransferStation": true
+    },
+    "149": {
+      "name": "Нагорная",
+      "lineId": 9.0,
+      "labelId": 149.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        148149.0,
+        149150.0
+      ]
+    },
+    "150": {
+      "name": "Нахимовский проспект",
+      "lineId": 9.0,
+      "labelId": 150.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        149150.0,
+        150151.0
+      ]
+    },
+    "151": {
+      "name": "Севастопольская",
+      "lineId": 9.0,
+      "labelId": 151.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 172.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        150151.0,
+        151152.0,
+        151172.0
+      ],
+      "isTransferStation": true
+    },
+    "152": {
+      "name": "Чертановская",
+      "lineId": 9.0,
+      "labelId": 152.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        151152.0,
+        152153.0
+      ]
+    },
+    "153": {
+      "name": "Южная",
+      "lineId": 9.0,
+      "labelId": 153.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        152153.0,
+        153154.0
+      ]
+    },
+    "154": {
+      "name": "Пражская",
+      "lineId": 9.0,
+      "labelId": 154.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        153154.0,
+        154155.0
+      ]
+    },
+    "155": {
+      "name": "Улица Академика Янгеля",
+      "lineId": 9.0,
+      "labelId": 155.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        154155.0,
+        155156.0
+      ]
+    },
+    "156": {
+      "name": "Аннино",
+      "lineId": 9.0,
+      "labelId": 156.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        155156.0,
+        156157.0
+      ]
+    },
+    "157": {
+      "name": "Бульвар Дмитрия Донского",
+      "lineId": 9.0,
+      "labelId": 157.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 173.0,
+            "pos": [
+              1.0,
+              3.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        156157.0,
+        157173.0
+      ],
+      "isTransferStation": true
+    },
+    "158": {
+      "name": "Трубная",
+      "lineId": 10.0,
+      "labelId": 158.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 142.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        142158.0,
+        158159.0,
+        182158.0
+      ],
+      "isTransferStation": true
+    },
+    "159": {
+      "name": "Сретенский бульвар",
+      "lineId": 10.0,
+      "labelId": 159.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 8.0,
+            "pos": [
+              2.0
+            ]
+          },
+          {
+            "toSt": 92.0,
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        8159.0,
+        92159.0,
+        158159.0,
+        159160.0
+      ],
+      "isTransferStation": true
+    },
+    "160": {
+      "name": "Чкаловская",
+      "lineId": 10.0,
+      "labelId": 160.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 76.0,
+            "pos": [
+              2.0
+            ]
+          },
+          {
+            "toSt": 47.0,
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        47160.0,
+        76160.0,
+        159160.0,
+        160161.0
+      ],
+      "isTransferStation": true
+    },
+    "161": {
+      "name": "Римская",
+      "lineId": 10.0,
+      "labelId": 161.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 130.0,
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        130161.0,
+        160161.0,
+        161162.0
+      ],
+      "isTransferStation": true
+    },
+    "162": {
+      "name": "Крестьянская Застава",
+      "lineId": 10.0,
+      "labelId": 162.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 120.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        120162.0,
+        161162.0,
+        162163.0
+      ],
+      "isTransferStation": true
+    },
+    "163": {
+      "name": "Дубровка",
+      "lineId": 10.0,
+      "labelId": 163.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 220.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        162163.0,
+        163164.0,
+        163220.0
+      ],
+      "isTransferStation": true
+    },
+    "164": {
+      "name": "Кожуховская",
+      "lineId": 10.0,
+      "labelId": 164.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        163164.0,
+        164165.0
+      ]
+    },
+    "165": {
+      "name": "Печатники",
+      "lineId": 10.0,
+      "labelId": 165.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        164165.0,
+        165166.0
+      ]
+    },
+    "166": {
+      "name": "Волжская",
+      "lineId": 10.0,
+      "labelId": 166.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        165166.0,
+        166167.0
+      ]
+    },
+    "167": {
+      "name": "Люблино",
+      "lineId": 10.0,
+      "labelId": 167.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        166167.0,
+        167168.0
+      ]
+    },
+    "168": {
+      "name": "Братиславская",
+      "lineId": 10.0,
+      "labelId": 168.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        167168.0,
+        168169.0
+      ]
+    },
+    "169": {
+      "name": "Марьино",
+      "lineId": 10.0,
+      "labelId": 169.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        168169.0,
+        169183.0
+      ]
+    },
+    "170": {
+      "name": "Каширская",
+      "lineId": 11.0,
+      "labelId": 34.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "prevSt": 171.0,
+            "toSt": 34.0,
+            "nextSt": 35.0,
+            "pos": [
+              2.0,
+              4.0
+            ]
+          },
+          {
+            "prevSt": 171.0,
+            "toSt": 34.0,
+            "nextSt": 33.0,
+            "pos": [
+              1.0,
+              2.0,
+              3.0,
+              4.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        34170.0,
+        170171.0
+      ],
+      "isTransferStation": true
+    },
+    "171": {
+      "name": "Варшавская",
+      "lineId": 11.0,
+      "labelId": 171.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        170171.0,
+        171172.0
+      ]
+    },
+    "172": {
+      "name": "Каховская",
+      "lineId": 11.0,
+      "labelId": 172.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 151.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        151172.0,
+        171172.0
+      ],
+      "isTransferStation": true
+    },
+    "173": {
+      "name": "Улица Старокачаловская",
+      "lineId": 12.0,
+      "labelId": 173.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 157.0,
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        157173.0,
+        173174.0,
+        192173.0
+      ],
+      "isTransferStation": true
+    },
+    "174": {
+      "name": "Улица Скобелевская",
+      "lineId": 12.0,
+      "labelId": 174.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        173174.0,
+        174175.0
+      ]
+    },
+    "175": {
+      "name": "Бульвар Адмирала Ушакова",
+      "lineId": 12.0,
+      "labelId": 175.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        174175.0,
+        175176.0
+      ]
+    },
+    "176": {
+      "name": "Улица Горчакова",
+      "lineId": 12.0,
+      "labelId": 176.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        175176.0,
+        176177.0
+      ]
+    },
+    "177": {
+      "name": "Бунинская аллея",
+      "lineId": 12.0,
+      "labelId": 177.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        176177.0
+      ]
+    },
+    "178": {
+      "name": "Мякинино",
+      "lineId": 3.0,
+      "labelId": 178.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        57178.0,
+        178179.0
+      ]
+    },
+    "179": {
+      "name": "Волоколамская",
+      "lineId": 3.0,
+      "labelId": 179.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        178179.0,
+        179180.0
+      ]
+    },
+    "180": {
+      "name": "Митино",
+      "lineId": 3.0,
+      "labelId": 180.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        179180.0,
+        180188.0
+      ]
+    },
+    "181": {
+      "name": "Марьина Роща",
+      "lineId": 10.0,
+      "labelId": 181.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        181182.0,
+        181232.0
+      ]
+    },
+    "182": {
+      "name": "Достоевская",
+      "lineId": 10.0,
+      "labelId": 182.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        181182.0,
+        182158.0
+      ]
+    },
+    "183": {
+      "name": "Борисово",
+      "lineId": 10.0,
+      "labelId": 183.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        169183.0,
+        183184.0
+      ]
+    },
+    "184": {
+      "name": "Шипиловская",
+      "lineId": 10.0,
+      "labelId": 184.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        183184.0,
+        184185.0
+      ]
+    },
+    "185": {
+      "name": "Зябликово",
+      "lineId": 10.0,
+      "labelId": 185.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 39.0,
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        39185.0,
+        184185.0
+      ],
+      "isTransferStation": true
+    },
+    "186": {
+      "name": "Новокосино",
+      "lineId": 8.0,
+      "labelId": 186.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        186126.0
+      ]
+    },
+    "187": {
+      "name": "Алма-Атинская",
+      "lineId": 2.0,
+      "labelId": 187.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        39187.0
+      ]
+    },
+    "188": {
+      "name": "Пятницкое шоссе",
+      "lineId": 3.0,
+      "labelId": 188.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        180188.0
+      ]
+    },
+    "189": {
+      "name": "Лермонтовский проспект",
+      "lineId": 7.0,
+      "labelId": 189.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        125189.0,
+        189190.0
+      ]
+    },
+    "190": {
+      "name": "Жулебино",
+      "lineId": 7.0,
+      "labelId": 190.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        189190.0,
+        190197.0
+      ]
+    },
+    "191": {
+      "name": "Битцевский парк",
+      "lineId": 12.0,
+      "labelId": 191.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              3.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 106.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        106191.0,
+        191192.0
+      ],
+      "isTransferStation": true
+    },
+    "192": {
+      "name": "Лесопарковая",
+      "lineId": 12.0,
+      "labelId": 192.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        191192.0,
+        192173.0
+      ]
+    },
+    "193": {
+      "name": "Шелепиха",
+      "lineId": 8.0,
+      "labelId": 211.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 211.0,
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        193194.0,
+        193211.0,
+        193239.0,
+        243193.0
+      ],
+      "isTransferStation": true
+    },
+    "194": {
+      "name": "Парк Победы",
+      "lineId": 8.0,
+      "labelId": 52.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "prevSt": 235.0,
+            "toSt": 52.0,
+            "nextSt": 51.0,
+            "pos": [
+              1.0,
+              2.0,
+              3.0,
+              4.0,
+              5.0
+            ]
+          },
+          {
+            "prevSt": 235.0,
+            "toSt": 52.0,
+            "nextSt": 53.0,
+            "pos": [
+              2.0,
+              4.0
+            ]
+          },
+          {
+            "prevSt": 193.0,
+            "toSt": 52.0,
+            "nextSt": 53.0,
+            "pos": [
+              1.0,
+              2.0,
+              3.0,
+              4.0,
+              5.0
+            ]
+          },
+          {
+            "prevSt": 193.0,
+            "toSt": 52.0,
+            "nextSt": 51.0,
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        52194.0,
+        193194.0,
+        194235.0
+      ],
+      "isTransferStation": true
+    },
+    "195": {
+      "name": "Спартак",
+      "lineId": 7.0,
+      "labelId": 195.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        109195.0,
+        195110.0
+      ]
+    },
+    "196": {
+      "name": "Тропарёво",
+      "lineId": 1.0,
+      "labelId": 196.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        19196.0,
+        196199.0
+      ]
+    },
+    "197": {
+      "name": "Котельники",
+      "lineId": 7.0,
+      "labelId": 197.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        190197.0
+      ]
+    },
+    "198": {
+      "name": "Технопарк",
+      "lineId": 2.0,
+      "labelId": 198.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        32198.0,
+        198033.0
+      ]
+    },
+    "199": {
+      "name": "Румянцево",
+      "lineId": 1.0,
+      "labelId": 199.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        196199.0,
+        199200.0
+      ]
+    },
+    "200": {
+      "name": "Саларьево",
+      "lineId": 1.0,
+      "labelId": 200.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        199200.0
+      ]
+    },
+    "201": {
+      "name": "Ботанический сад",
+      "lineId": 14.0,
+      "labelId": 86.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 86.0,
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        86201.0,
+        201202.0,
+        231201.0
+      ],
+      "isTransferStation": true
+    },
+    "202": {
+      "name": "Владыкино",
+      "lineId": 14.0,
+      "labelId": 136.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 136.0,
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        136202.0,
+        201202.0,
+        202203.0
+      ],
+      "isTransferStation": true
+    },
+    "203": {
+      "name": "Окружная",
+      "lineId": 14.0,
+      "labelId": 247.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 247.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        202203.0,
+        203204.0,
+        247203.0
+      ],
+      "isTransferStation": true
+    },
+    "204": {
+      "name": "Лихоборы",
+      "lineId": 14.0,
+      "labelId": 204.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        203204.0,
+        204205.0
+      ]
+    },
+    "205": {
+      "name": "Коптево",
+      "lineId": 14.0,
+      "labelId": 205.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        204205.0,
+        205206.0
+      ]
+    },
+    "206": {
+      "name": "Балтийская",
+      "lineId": 14.0,
+      "labelId": 206.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 22.0,
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        22206.0,
+        205206.0,
+        206207.0
+      ],
+      "isTransferStation": true
+    },
+    "207": {
+      "name": "Стрешнево",
+      "lineId": 14.0,
+      "labelId": 207.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        206207.0,
+        207208.0
+      ]
+    },
+    "208": {
+      "name": "Панфиловская",
+      "lineId": 14.0,
+      "labelId": 208.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 111.0,
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        111208.0,
+        207208.0,
+        208209.0
+      ],
+      "isTransferStation": true
+    },
+    "209": {
+      "name": "Зорге",
+      "lineId": 14.0,
+      "labelId": 209.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        208209.0,
+        209210.0
+      ]
+    },
+    "210": {
+      "name": "Хорошёво",
+      "lineId": 14.0,
+      "labelId": 210.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "prevSt": 209.0,
+            "pos": [
+              1.0,
+              3.0
+            ]
+          },
+          {
+            "prevSt": 211.0,
+            "pos": [
+              4.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "prevSt": 209.0,
+            "toSt": 112.0,
+            "pos": [
+              1.0,
+              3.0
+            ]
+          },
+          {
+            "prevSt": 211.0,
+            "toSt": 112.0,
+            "pos": [
+              4.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        112210.0,
+        209210.0,
+        210211.0,
+        210240.0,
+        210243.0
+      ],
+      "isTransferStation": true
+    },
+    "211": {
+      "name": "Шелепиха",
+      "lineId": 14.0,
+      "labelId": 211.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              3.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 193.0,
+            "pos": [
+              3.0
+            ]
+          },
+          {
+            "toSt": 239.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        193211.0,
+        210211.0,
+        211212.0,
+        211239.0
+      ],
+      "isTransferStation": true
+    },
+    "212": {
+      "name": "Деловой центр",
+      "lineId": 14.0,
+      "labelId": 212.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "prevSt": 211.0,
+            "pos": [
+              4.0
+            ]
+          },
+          {
+            "prevSt": 213.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "prevSt": 211.0,
+            "toSt": 70.0,
+            "pos": [
+              4.0
+            ]
+          },
+          {
+            "prevSt": 213.0,
+            "toSt": 70.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        70212.0,
+        211212.0,
+        212213.0
+      ],
+      "isTransferStation": true
+    },
+    "213": {
+      "name": "Кутузовская",
+      "lineId": 14.0,
+      "labelId": 63.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "prevSt": 212.0,
+            "pos": [
+              3.0
+            ]
+          },
+          {
+            "prevSt": 214.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "prevSt": 212.0,
+            "toSt": 63.0,
+            "pos": [
+              3.0
+            ]
+          },
+          {
+            "prevSt": 214.0,
+            "toSt": 63.0,
+            "pos": [
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        63213.0,
+        212213.0,
+        213214.0
+      ],
+      "isTransferStation": true
+    },
+    "214": {
+      "name": "Лужники",
+      "lineId": 14.0,
+      "labelId": 214.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "prevSt": 213.0,
+            "pos": [
+              5.0
+            ]
+          },
+          {
+            "prevSt": 215.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "prevSt": 213.0,
+            "toSt": 15.0,
+            "pos": [
+              5.0
+            ]
+          },
+          {
+            "prevSt": 215.0,
+            "toSt": 15.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        15214.0,
+        213214.0,
+        214215.0
+      ],
+      "isTransferStation": true
+    },
+    "215": {
+      "name": "Площадь Гагарина",
+      "lineId": 14.0,
+      "labelId": 215.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "prevSt": 214.0,
+            "pos": [
+              4.0,
+              5.0
+            ]
+          },
+          {
+            "prevSt": 216.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 97.0,
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        97215.0,
+        214215.0,
+        215216.0
+      ],
+      "isTransferStation": true
+    },
+    "216": {
+      "name": "Крымская",
+      "lineId": 14.0,
+      "labelId": 216.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        215216.0,
+        216217.0
+      ]
+    },
+    "217": {
+      "name": "Верхние Котлы",
+      "lineId": 14.0,
+      "labelId": 217.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 148.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        148217.0,
+        216217.0,
+        217218.0
+      ],
+      "isTransferStation": true
+    },
+    "218": {
+      "name": "ЗИЛ",
+      "lineId": 14.0,
+      "labelId": 218.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        217218.0,
+        218219.0
+      ]
+    },
+    "219": {
+      "name": "Автозаводская",
+      "lineId": 14.0,
+      "labelId": 32.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 32.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        32219.0,
+        218219.0,
+        219220.0
+      ],
+      "isTransferStation": true
+    },
+    "220": {
+      "name": "Дубровка",
+      "lineId": 14.0,
+      "labelId": 163.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 163.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        163220.0,
+        219220.0,
+        220221.0
+      ],
+      "isTransferStation": true
+    },
+    "221": {
+      "name": "Угрешская",
+      "lineId": 14.0,
+      "labelId": 221.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        220221.0,
+        221222.0
+      ]
+    },
+    "222": {
+      "name": "Новохохловская",
+      "lineId": 14.0,
+      "labelId": 222.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        221222.0,
+        222223.0
+      ]
+    },
+    "223": {
+      "name": "Нижегородская",
+      "lineId": 14.0,
+      "labelId": 223.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "prevSt": 222.0,
+            "pos": [
+              5.0
+            ]
+          },
+          {
+            "prevSt": 224.0,
+            "pos": [
+              2.0,
+              3.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        222223.0,
+        223224.0
+      ]
+    },
+    "224": {
+      "name": "Андроновка",
+      "lineId": 14.0,
+      "labelId": 224.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        223224.0,
+        224225.0
+      ]
+    },
+    "225": {
+      "name": "Шоссе Энтузиастов",
+      "lineId": 14.0,
+      "labelId": 128.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 128.0,
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        128225.0,
+        224225.0,
+        225226.0
+      ],
+      "isTransferStation": true
+    },
+    "226": {
+      "name": "Соколиная гора",
+      "lineId": 14.0,
+      "labelId": 226.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        225226.0,
+        226227.0
+      ]
+    },
+    "227": {
+      "name": "Измайлово",
+      "lineId": 14.0,
+      "labelId": 227.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 43.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        43227.0,
+        226227.0,
+        227228.0
+      ],
+      "isTransferStation": true
+    },
+    "228": {
+      "name": "Локомотив",
+      "lineId": 14.0,
+      "labelId": 228.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 2.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        2228.0,
+        227228.0,
+        228229.0
+      ],
+      "isTransferStation": true
+    },
+    "229": {
+      "name": "Бульвар Рокоссовского",
+      "lineId": 14.0,
+      "labelId": 1.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 1.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        1229.0,
+        228229.0,
+        229230.0
+      ],
+      "isTransferStation": true
+    },
+    "230": {
+      "name": "Белокаменная",
+      "lineId": 14.0,
+      "labelId": 230.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "prevSt": 229.0,
+            "pos": [
+              3.0
+            ]
+          },
+          {
+            "prevSt": 231.0,
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        229230.0,
+        230231.0
+      ]
+    },
+    "231": {
+      "name": "Ростокино",
+      "lineId": 14.0,
+      "labelId": 231.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        230231.0,
+        231201.0
+      ]
+    },
+    "232": {
+      "name": "Бутырская",
+      "lineId": 10.0,
+      "labelId": 232.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        181232.0,
+        232233.0
+      ]
+    },
+    "233": {
+      "name": "Фонвизинская",
+      "lineId": 10.0,
+      "labelId": 233.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        232233.0,
+        233234.0
+      ]
+    },
+    "234": {
+      "name": "Петровско-Разумовская",
+      "lineId": 10.0,
+      "labelId": 234.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "prevSt": 233.0,
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "prevSt": 233.0,
+            "toSt": 137.0,
+            "nextSt": 136.0,
+            "pos": [
+              1.0,
+              2.0,
+              3.0,
+              4.0,
+              5.0
+            ]
+          },
+          {
+            "prevSt": 233.0,
+            "toSt": 137.0,
+            "nextSt": 138.0,
+            "pos": [
+              2.0,
+              4.0
+            ]
+          },
+          {
+            "prevSt": 247.0,
+            "toSt": 137.0,
+            "nextSt": 138.0,
+            "pos": [
+              1.0,
+              2.0,
+              3.0,
+              4.0,
+              5.0
+            ]
+          },
+          {
+            "prevSt": 247.0,
+            "toSt": 137.0,
+            "nextSt": 136.0,
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        233234.0,
+        234137.0,
+        234247.0
+      ],
+      "isTransferStation": true
+    },
+    "235": {
+      "name": "Минская",
+      "lineId": 8.0,
+      "labelId": 235.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        194235.0,
+        235236.0
+      ]
+    },
+    "236": {
+      "name": "Ломоносовский проспект",
+      "lineId": 8.0,
+      "labelId": 236.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        235236.0,
+        236237.0
+      ]
+    },
+    "237": {
+      "name": "Раменки",
+      "lineId": 8.0,
+      "labelId": 237.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        236237.0,
+        237250.0
+      ]
+    },
+    "238": {
+      "name": "Деловой центр",
+      "lineId": 15.0,
+      "labelId": 238.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 69.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        69238.0,
+        238239.0
+      ],
+      "isTransferStation": true
+    },
+    "239": {
+      "name": "Шелепиха",
+      "lineId": 15.0,
+      "labelId": 211.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 211.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        193239.0,
+        211239.0,
+        238239.0,
+        239240.0
+      ],
+      "isTransferStation": true
+    },
+    "240": {
+      "name": "Хорошёвская",
+      "lineId": 15.0,
+      "labelId": 240.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 112.0,
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "changes": {
+        "hint": "Западный вестибюль закрыт на ремонт"
+      },
+      "linkIds": [
+        112240.0,
+        210240.0,
+        239240.0,
+        240241.0,
+        243240.0
+      ],
+      "isTransferStation": true
+    },
+    "241": {
+      "name": "ЦСКА",
+      "lineId": 15.0,
+      "labelId": 241.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        240241.0,
+        241242.0,
+        241244.0
+      ],
+      "isTransferStation": true
+    },
+    "242": {
+      "name": "Петровский парк",
+      "lineId": 15.0,
+      "labelId": 242.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 25.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        25242.0,
+        241242.0,
+        242245.0,
+        242258.0
+      ],
+      "isTransferStation": true
+    },
+    "243": {
+      "name": "Хорошёвская",
+      "lineId": 8.0,
+      "labelId": 240.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 112.0,
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "changes": {
+        "hint": "Западный вестибюль закрыт на ремонт"
+      },
+      "linkIds": [
+        112243.0,
+        210243.0,
+        243193.0,
+        243240.0,
+        243244.0
+      ],
+      "isTransferStation": true
+    },
+    "244": {
+      "name": "ЦСКА",
+      "lineId": 8.0,
+      "labelId": 241.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        241244.0,
+        243244.0,
+        244245.0
+      ],
+      "isTransferStation": true
+    },
+    "245": {
+      "name": "Петровский парк",
+      "lineId": 8.0,
+      "labelId": 242.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 25.0,
+            "pos": [
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        25245.0,
+        242245.0,
+        244245.0,
+        245259.0
+      ],
+      "isTransferStation": true
+    },
+    "246": {
+      "name": "Ховрино",
+      "lineId": 2.0,
+      "labelId": 246.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        257246.0
+      ]
+    },
+    "247": {
+      "name": "Окружная",
+      "lineId": 10.0,
+      "labelId": 247.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 203.0,
+            "pos": [
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        234247.0,
+        247203.0,
+        247248.0
+      ],
+      "isTransferStation": true
+    },
+    "248": {
+      "name": "Верхние Лихоборы",
+      "lineId": 10.0,
+      "labelId": 248.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        247248.0,
+        248249.0
+      ]
+    },
+    "249": {
+      "name": "Селигерская",
+      "lineId": 10.0,
+      "labelId": 249.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        248249.0
+      ]
+    },
+    "250": {
+      "name": "Мичуринский проспект",
+      "lineId": 8.0,
+      "labelId": 250.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        237250.0,
+        250251.0
+      ]
+    },
+    "251": {
+      "name": "Озёрная",
+      "lineId": 8.0,
+      "labelId": 251.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        250251.0,
+        251252.0
+      ]
+    },
+    "252": {
+      "name": "Говорово",
+      "lineId": 8.0,
+      "labelId": 252.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        251252.0,
+        252253.0
+      ]
+    },
+    "253": {
+      "name": "Солнцево",
+      "lineId": 8.0,
+      "labelId": 253.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        252253.0,
+        253254.0
+      ]
+    },
+    "254": {
+      "name": "Боровское шоссе",
+      "lineId": 8.0,
+      "labelId": 254.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        253254.0,
+        254255.0
+      ]
+    },
+    "255": {
+      "name": "Новопеределкино",
+      "lineId": 8.0,
+      "labelId": 255.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        254255.0,
+        255256.0
+      ]
+    },
+    "256": {
+      "name": "Рассказовка",
+      "lineId": 8.0,
+      "labelId": 256.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              1.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        255256.0
+      ]
+    },
+    "257": {
+      "name": "Беломорская",
+      "lineId": 2.0,
+      "labelId": 257.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        20257.0,
+        257246.0
+      ]
+    },
+    "258": {
+      "name": "Савёловская",
+      "lineId": 15.0,
+      "labelId": 140.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 140.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        242258.0,
+        258140.0,
+        259258.0
+      ],
+      "isTransferStation": true
+    },
+    "259": {
+      "name": "Савёловская",
+      "lineId": 8.0,
+      "labelId": 140.0,
+      "boardInfo": {
+        "exit": [
+          {
+            "pos": [
+              2.0,
+              4.0
+            ]
+          }
+        ],
+        "transfer": [
+          {
+            "toSt": 140.0,
+            "pos": [
+              2.0
+            ]
+          }
+        ]
+      },
+      "linkIds": [
+        245259.0,
+        259140.0,
+        259258.0
+      ],
+      "isTransferStation": true
+    }
+  },
+  "lines": {
+    "1": {
+      "name": "Сокольническая линия",
+      "alias": "СЛ",
+      "color": "#EF1E25"
+    },
+    "2": {
+      "name": "Замоскворецкая линия",
+      "alias": "ЗЛ",
+      "color": "#029A55"
+    },
+    "3": {
+      "name": "Арбатско-Покровская линия",
+      "alias": "АПЛ",
+      "color": "#0252A2"
+    },
+    "4": {
+      "name": "Филевская линия",
+      "alias": "ФЛ",
+      "color": "#019EE0"
+    },
+    "5": {
+      "name": "Кольцевая линия",
+      "alias": "КЛ",
+      "color": "#745C2F"
+    },
+    "6": {
+      "name": "Калужско-Рижская линия",
+      "alias": "КРЛ",
+      "color": "#FBAA33"
+    },
+    "7": {
+      "name": "Таганско-Краснопресненская линия",
+      "alias": "ТКЛ",
+      "color": "#B61D8E"
+    },
+    "8": {
+      "name": "Калининско-Солнцевская линия",
+      "alias": "КСЛ",
+      "color": "#FFD803"
+    },
+    "9": {
+      "name": "Серпуховско-Тимирязевская линия",
+      "alias": "СТЛ",
+      "color": "#ACADAF"
+    },
+    "10": {
+      "name": "Люблинско-Дмитровская линия",
+      "alias": "ЛДЛ",
+      "color": "#B1D332"
+    },
+    "11": {
+      "name": "Каховская линия",
+      "alias": "КахЛ",
+      "color": "#5BBEBB"
+    },
+    "12": {
+      "name": "Бутовская линия",
+      "alias": "БЛ",
+      "color": "#85D4F3"
+    },
+    "13": {
+      "name": "Московский монорельс",
+      "alias": "Монорельс",
+      "color": "#9999FF"
+    },
+    "14": {
+      "name": "Московское центральное кольцо",
+      "alias": "МЦК",
+      "color": "#FFA8AF"
+    },
+    "15": {
+      "name": "Большая кольцевая линия",
+      "alias": "БКЛ",
+      "color": "#5BBEBB"
+    }
+  },
+  "links": {
+    "1002": {
+      "type": "link",
+      "fromStationId": 1.0,
+      "toStationId": 2.0,
+      "weightTime": 190.0,
+      "weightTransfer": 0.0
+    },
+    "1229": {
+      "type": "transfer",
+      "fromStationId": 1.0,
+      "toStationId": 229.0,
+      "weightTime": 541.0,
+      "weightTransfer": 1.0,
+      "transferId": 1229.0
+    },
+    "2003": {
+      "type": "link",
+      "fromStationId": 2.0,
+      "toStationId": 3.0,
+      "weightTime": 145.0,
+      "weightTransfer": 0.0
+    },
+    "2228": {
+      "type": "transfer",
+      "fromStationId": 2.0,
+      "toStationId": 228.0,
+      "weightTime": 300.0,
+      "weightTransfer": 1.0,
+      "transferId": 228002.0
+    },
+    "3004": {
+      "type": "link",
+      "fromStationId": 3.0,
+      "toStationId": 4.0,
+      "weightTime": 200.0,
+      "weightTransfer": 0.0
+    },
+    "4005": {
+      "type": "link",
+      "fromStationId": 4.0,
+      "toStationId": 5.0,
+      "weightTime": 135.0,
+      "weightTransfer": 0.0
+    },
+    "5006": {
+      "type": "link",
+      "fromStationId": 5.0,
+      "toStationId": 6.0,
+      "weightTime": 125.0,
+      "weightTransfer": 0.0
+    },
+    "6007": {
+      "type": "link",
+      "fromStationId": 6.0,
+      "toStationId": 7.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "6077": {
+      "type": "transfer",
+      "fromStationId": 6.0,
+      "toStationId": 77.0,
+      "weightTime": 360.0,
+      "weightTransfer": 1.0,
+      "transferId": 77006.0
+    },
+    "7008": {
+      "type": "link",
+      "fromStationId": 7.0,
+      "toStationId": 8.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "8009": {
+      "type": "link",
+      "fromStationId": 8.0,
+      "toStationId": 9.0,
+      "weightTime": 125.0,
+      "weightTransfer": 0.0
+    },
+    "8092": {
+      "type": "transfer",
+      "fromStationId": 8.0,
+      "toStationId": 92.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 1.59008092E8
+    },
+    "8159": {
+      "type": "transfer",
+      "fromStationId": 8.0,
+      "toStationId": 159.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 1.59008092E8
+    },
+    "9010": {
+      "type": "link",
+      "fromStationId": 9.0,
+      "toStationId": 10.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "9117": {
+      "type": "transfer",
+      "fromStationId": 9.0,
+      "toStationId": 117.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 9117.0
+    },
+    "10011": {
+      "type": "link",
+      "fromStationId": 10.0,
+      "toStationId": 11.0,
+      "weightTime": 125.0,
+      "weightTransfer": 0.0
+    },
+    "10029": {
+      "type": "transfer",
+      "fromStationId": 10.0,
+      "toStationId": 29.0,
+      "weightTime": 240.0,
+      "weightTransfer": 1.0,
+      "transferId": 4.802901E7
+    },
+    "11012": {
+      "type": "link",
+      "fromStationId": 11.0,
+      "toStationId": 12.0,
+      "weightTime": 125.0,
+      "weightTransfer": 0.0
+    },
+    "11049": {
+      "type": "transfer",
+      "fromStationId": 11.0,
+      "toStationId": 49.0,
+      "weightTime": 300.0,
+      "weightTransfer": 1.0,
+      "transferId": 1.1049144068E10
+    },
+    "11068": {
+      "type": "transfer",
+      "fromStationId": 11.0,
+      "toStationId": 68.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 1.1049144068E10
+    },
+    "11144": {
+      "type": "transfer",
+      "fromStationId": 11.0,
+      "toStationId": 144.0,
+      "weightTime": 360.0,
+      "weightTransfer": 1.0,
+      "transferId": 1.1049144068E10
+    },
+    "12013": {
+      "type": "link",
+      "fromStationId": 12.0,
+      "toStationId": 13.0,
+      "weightTime": 130.0,
+      "weightTransfer": 0.0
+    },
+    "13014": {
+      "type": "link",
+      "fromStationId": 13.0,
+      "toStationId": 14.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "13071": {
+      "type": "transfer",
+      "fromStationId": 13.0,
+      "toStationId": 71.0,
+      "weightTime": 300.0,
+      "weightTransfer": 1.0,
+      "transferId": 13071.0
+    },
+    "14015": {
+      "type": "link",
+      "fromStationId": 14.0,
+      "toStationId": 15.0,
+      "weightTime": 125.0,
+      "weightTransfer": 0.0
+    },
+    "15016": {
+      "type": "link",
+      "fromStationId": 15.0,
+      "toStationId": 16.0,
+      "weightTime": 185.0,
+      "weightTransfer": 0.0
+    },
+    "15214": {
+      "type": "transfer",
+      "fromStationId": 15.0,
+      "toStationId": 214.0,
+      "weightTime": 360.0,
+      "weightTransfer": 1.0,
+      "transferId": 15214.0
+    },
+    "16017": {
+      "type": "link",
+      "fromStationId": 16.0,
+      "toStationId": 17.0,
+      "weightTime": 225.0,
+      "weightTransfer": 0.0
+    },
+    "17018": {
+      "type": "link",
+      "fromStationId": 17.0,
+      "toStationId": 18.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "18019": {
+      "type": "link",
+      "fromStationId": 18.0,
+      "toStationId": 19.0,
+      "weightTime": 170.0,
+      "weightTransfer": 0.0
+    },
+    "19196": {
+      "type": "link",
+      "fromStationId": 19.0,
+      "toStationId": 196.0,
+      "weightTime": 170.0,
+      "weightTransfer": 0.0
+    },
+    "20021": {
+      "type": "link",
+      "fromStationId": 20.0,
+      "toStationId": 21.0,
+      "weightTime": 155.0,
+      "weightTransfer": 0.0
+    },
+    "20257": {
+      "type": "link",
+      "fromStationId": 20.0,
+      "toStationId": 257.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "21022": {
+      "type": "link",
+      "fromStationId": 21.0,
+      "toStationId": 22.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "22023": {
+      "type": "link",
+      "fromStationId": 22.0,
+      "toStationId": 23.0,
+      "weightTime": 170.0,
+      "weightTransfer": 0.0
+    },
+    "22206": {
+      "type": "transfer",
+      "fromStationId": 22.0,
+      "toStationId": 206.0,
+      "weightTime": 780.0,
+      "weightTransfer": 1.0,
+      "transferId": 206022.0
+    },
+    "23024": {
+      "type": "link",
+      "fromStationId": 23.0,
+      "toStationId": 24.0,
+      "weightTime": 130.0,
+      "weightTransfer": 0.0
+    },
+    "24025": {
+      "type": "link",
+      "fromStationId": 24.0,
+      "toStationId": 25.0,
+      "weightTime": 170.0,
+      "weightTransfer": 0.0
+    },
+    "25026": {
+      "type": "link",
+      "fromStationId": 25.0,
+      "toStationId": 26.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "25242": {
+      "type": "transfer",
+      "fromStationId": 25.0,
+      "toStationId": 242.0,
+      "weightTime": 360.0,
+      "weightTransfer": 1.0,
+      "transferId": 2.5242245E7
+    },
+    "25245": {
+      "type": "transfer",
+      "fromStationId": 25.0,
+      "toStationId": 245.0,
+      "weightTime": 360.0,
+      "weightTransfer": 1.0,
+      "transferId": 2.5242245E7
+    },
+    "26027": {
+      "type": "link",
+      "fromStationId": 26.0,
+      "toStationId": 27.0,
+      "weightTime": 110.0,
+      "weightTransfer": 0.0
+    },
+    "26080": {
+      "type": "transfer",
+      "fromStationId": 26.0,
+      "toStationId": 80.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 26080.0
+    },
+    "27028": {
+      "type": "link",
+      "fromStationId": 27.0,
+      "toStationId": 28.0,
+      "weightTime": 100.0,
+      "weightTransfer": 0.0
+    },
+    "28029": {
+      "type": "link",
+      "fromStationId": 28.0,
+      "toStationId": 29.0,
+      "weightTime": 100.0,
+      "weightTransfer": 0.0
+    },
+    "28116": {
+      "type": "transfer",
+      "fromStationId": 28.0,
+      "toStationId": 116.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 1.43116028E8
+    },
+    "28143": {
+      "type": "transfer",
+      "fromStationId": 28.0,
+      "toStationId": 143.0,
+      "weightTime": 240.0,
+      "weightTransfer": 1.0,
+      "transferId": 1.43116028E8
+    },
+    "29030": {
+      "type": "link",
+      "fromStationId": 29.0,
+      "toStationId": 30.0,
+      "weightTime": 160.0,
+      "weightTransfer": 0.0
+    },
+    "29048": {
+      "type": "transfer",
+      "fromStationId": 29.0,
+      "toStationId": 48.0,
+      "weightTime": 300.0,
+      "weightTransfer": 1.0,
+      "transferId": 4.802901E7
+    },
+    "30031": {
+      "type": "link",
+      "fromStationId": 30.0,
+      "toStationId": 31.0,
+      "weightTime": 140.0,
+      "weightTransfer": 0.0
+    },
+    "30094": {
+      "type": "transfer",
+      "fromStationId": 30.0,
+      "toStationId": 94.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 3.0132094E7
+    },
+    "30132": {
+      "type": "transfer",
+      "fromStationId": 30.0,
+      "toStationId": 132.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 3.0132094E7
+    },
+    "31032": {
+      "type": "link",
+      "fromStationId": 31.0,
+      "toStationId": 32.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "31074": {
+      "type": "transfer",
+      "fromStationId": 31.0,
+      "toStationId": 74.0,
+      "weightTime": 240.0,
+      "weightTransfer": 1.0,
+      "transferId": 31074.0
+    },
+    "32198": {
+      "type": "link",
+      "fromStationId": 32.0,
+      "toStationId": 198.0,
+      "weightTime": 140.0,
+      "weightTransfer": 0.0
+    },
+    "32219": {
+      "type": "transfer",
+      "fromStationId": 32.0,
+      "toStationId": 219.0,
+      "weightTime": 600.0,
+      "weightTransfer": 1.0,
+      "transferId": 219032.0
+    },
+    "33034": {
+      "type": "link",
+      "fromStationId": 33.0,
+      "toStationId": 34.0,
+      "weightTime": 200.0,
+      "weightTransfer": 0.0
+    },
+    "34035": {
+      "type": "link",
+      "fromStationId": 34.0,
+      "toStationId": 35.0,
+      "weightTime": 205.0,
+      "weightTransfer": 0.0
+    },
+    "34170": {
+      "type": "transfer",
+      "fromStationId": 34.0,
+      "toStationId": 170.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 170034.0
+    },
+    "35036": {
+      "type": "link",
+      "fromStationId": 35.0,
+      "toStationId": 36.0,
+      "weightTime": 145.0,
+      "weightTransfer": 0.0
+    },
+    "36037": {
+      "type": "link",
+      "fromStationId": 36.0,
+      "toStationId": 37.0,
+      "weightTime": 185.0,
+      "weightTransfer": 0.0
+    },
+    "37038": {
+      "type": "link",
+      "fromStationId": 37.0,
+      "toStationId": 38.0,
+      "weightTime": 145.0,
+      "weightTransfer": 0.0
+    },
+    "38039": {
+      "type": "link",
+      "fromStationId": 38.0,
+      "toStationId": 39.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "39185": {
+      "type": "transfer",
+      "fromStationId": 39.0,
+      "toStationId": 185.0,
+      "weightTime": 150.0,
+      "weightTransfer": 1.0,
+      "transferId": 185039.0
+    },
+    "39187": {
+      "type": "link",
+      "fromStationId": 39.0,
+      "toStationId": 187.0,
+      "weightTime": 260.0,
+      "weightTransfer": 0.0
+    },
+    "40041": {
+      "type": "link",
+      "fromStationId": 40.0,
+      "toStationId": 41.0,
+      "weightTime": 135.0,
+      "weightTransfer": 0.0
+    },
+    "41042": {
+      "type": "link",
+      "fromStationId": 41.0,
+      "toStationId": 42.0,
+      "weightTime": 170.0,
+      "weightTransfer": 0.0
+    },
+    "42043": {
+      "type": "link",
+      "fromStationId": 42.0,
+      "toStationId": 43.0,
+      "weightTime": 190.0,
+      "weightTransfer": 0.0
+    },
+    "43044": {
+      "type": "link",
+      "fromStationId": 43.0,
+      "toStationId": 44.0,
+      "weightTime": 165.0,
+      "weightTransfer": 0.0
+    },
+    "43227": {
+      "type": "transfer",
+      "fromStationId": 43.0,
+      "toStationId": 227.0,
+      "weightTime": 540.0,
+      "weightTransfer": 1.0,
+      "transferId": 43227.0
+    },
+    "44045": {
+      "type": "link",
+      "fromStationId": 44.0,
+      "toStationId": 45.0,
+      "weightTime": 110.0,
+      "weightTransfer": 0.0
+    },
+    "45046": {
+      "type": "link",
+      "fromStationId": 45.0,
+      "toStationId": 46.0,
+      "weightTime": 145.0,
+      "weightTransfer": 0.0
+    },
+    "46047": {
+      "type": "link",
+      "fromStationId": 46.0,
+      "toStationId": 47.0,
+      "weightTime": 175.0,
+      "weightTransfer": 0.0
+    },
+    "47048": {
+      "type": "link",
+      "fromStationId": 47.0,
+      "toStationId": 48.0,
+      "weightTime": 185.0,
+      "weightTransfer": 0.0
+    },
+    "47076": {
+      "type": "transfer",
+      "fromStationId": 47.0,
+      "toStationId": 76.0,
+      "weightTime": 240.0,
+      "weightTransfer": 1.0,
+      "transferId": 1.60076047E8
+    },
+    "47160": {
+      "type": "transfer",
+      "fromStationId": 47.0,
+      "toStationId": 160.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 1.60076047E8
+    },
+    "48049": {
+      "type": "link",
+      "fromStationId": 48.0,
+      "toStationId": 49.0,
+      "weightTime": 125.0,
+      "weightTransfer": 0.0
+    },
+    "49050": {
+      "type": "link",
+      "fromStationId": 49.0,
+      "toStationId": 50.0,
+      "weightTime": 140.0,
+      "weightTransfer": 0.0
+    },
+    "49068": {
+      "type": "transfer",
+      "fromStationId": 49.0,
+      "toStationId": 68.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 1.1049144068E10
+    },
+    "49144": {
+      "type": "transfer",
+      "fromStationId": 49.0,
+      "toStationId": 144.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 1.1049144068E10
+    },
+    "50051": {
+      "type": "link",
+      "fromStationId": 50.0,
+      "toStationId": 51.0,
+      "weightTime": 105.0,
+      "weightTransfer": 0.0
+    },
+    "51052": {
+      "type": "link",
+      "fromStationId": 51.0,
+      "toStationId": 52.0,
+      "weightTime": 270.0,
+      "weightTransfer": 0.0
+    },
+    "51065": {
+      "type": "transfer",
+      "fromStationId": 51.0,
+      "toStationId": 65.0,
+      "weightTime": 240.0,
+      "weightTransfer": 1.0,
+      "transferId": 5.1082065E7
+    },
+    "51082": {
+      "type": "transfer",
+      "fromStationId": 51.0,
+      "toStationId": 82.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 5.1082065E7
+    },
+    "52053": {
+      "type": "link",
+      "fromStationId": 52.0,
+      "toStationId": 53.0,
+      "weightTime": 260.0,
+      "weightTransfer": 0.0
+    },
+    "52194": {
+      "type": "transfer",
+      "fromStationId": 52.0,
+      "toStationId": 194.0,
+      "weightTime": 120.0,
+      "weightTransfer": 1.0,
+      "transferId": 194052.0
+    },
+    "53054": {
+      "type": "link",
+      "fromStationId": 53.0,
+      "toStationId": 54.0,
+      "weightTime": 170.0,
+      "weightTransfer": 0.0
+    },
+    "54055": {
+      "type": "link",
+      "fromStationId": 54.0,
+      "toStationId": 55.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "54058": {
+      "type": "transfer",
+      "fromStationId": 54.0,
+      "toStationId": 58.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 58054.0
+    },
+    "55056": {
+      "type": "link",
+      "fromStationId": 55.0,
+      "toStationId": 56.0,
+      "weightTime": 195.0,
+      "weightTransfer": 0.0
+    },
+    "56057": {
+      "type": "link",
+      "fromStationId": 56.0,
+      "toStationId": 57.0,
+      "weightTime": 420.0,
+      "weightTransfer": 0.0
+    },
+    "57178": {
+      "type": "link",
+      "fromStationId": 57.0,
+      "toStationId": 178.0,
+      "weightTime": 205.0,
+      "weightTransfer": 0.0
+    },
+    "58059": {
+      "type": "link",
+      "fromStationId": 58.0,
+      "toStationId": 59.0,
+      "weightTime": 130.0,
+      "weightTransfer": 0.0
+    },
+    "59060": {
+      "type": "link",
+      "fromStationId": 59.0,
+      "toStationId": 60.0,
+      "weightTime": 115.0,
+      "weightTransfer": 0.0
+    },
+    "60061": {
+      "type": "link",
+      "fromStationId": 60.0,
+      "toStationId": 61.0,
+      "weightTime": 115.0,
+      "weightTransfer": 0.0
+    },
+    "61062": {
+      "type": "link",
+      "fromStationId": 61.0,
+      "toStationId": 62.0,
+      "weightTime": 140.0,
+      "weightTransfer": 0.0
+    },
+    "62063": {
+      "type": "link",
+      "fromStationId": 62.0,
+      "toStationId": 63.0,
+      "weightTime": 145.0,
+      "weightTransfer": 0.0
+    },
+    "63064": {
+      "type": "link",
+      "fromStationId": 63.0,
+      "toStationId": 64.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "63213": {
+      "type": "transfer",
+      "fromStationId": 63.0,
+      "toStationId": 213.0,
+      "weightTime": 360.0,
+      "weightTransfer": 1.0,
+      "transferId": 213063.0
+    },
+    "64065": {
+      "type": "link",
+      "fromStationId": 64.0,
+      "toStationId": 65.0,
+      "weightTime": 140.0,
+      "weightTransfer": 0.0
+    },
+    "65066": {
+      "type": "link",
+      "fromStationId": 65.0,
+      "toStationId": 66.0,
+      "weightTime": 130.0,
+      "weightTransfer": 0.0
+    },
+    "65069": {
+      "type": "link",
+      "fromStationId": 65.0,
+      "toStationId": 69.0,
+      "weightTime": 145.0,
+      "weightTransfer": 0.0
+    },
+    "65082": {
+      "type": "transfer",
+      "fromStationId": 65.0,
+      "toStationId": 82.0,
+      "weightTime": 360.0,
+      "weightTransfer": 1.0,
+      "transferId": 5.1082065E7
+    },
+    "66067": {
+      "type": "link",
+      "fromStationId": 66.0,
+      "toStationId": 67.0,
+      "weightTime": 115.0,
+      "weightTransfer": 0.0
+    },
+    "67068": {
+      "type": "link",
+      "fromStationId": 67.0,
+      "toStationId": 68.0,
+      "weightTime": 65.0,
+      "weightTransfer": 0.0
+    },
+    "69070": {
+      "type": "link",
+      "fromStationId": 69.0,
+      "toStationId": 70.0,
+      "weightTime": 85.0,
+      "weightTransfer": 0.0
+    },
+    "69238": {
+      "type": "transfer",
+      "fromStationId": 69.0,
+      "toStationId": 238.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 69238.0
+    },
+    "70212": {
+      "type": "transfer",
+      "fromStationId": 70.0,
+      "toStationId": 212.0,
+      "weightTime": 360.0,
+      "weightTransfer": 1.0,
+      "transferId": 212070.0
+    },
+    "71072": {
+      "type": "link",
+      "fromStationId": 71.0,
+      "toStationId": 72.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "72073": {
+      "type": "link",
+      "fromStationId": 72.0,
+      "toStationId": 73.0,
+      "weightTime": 105.0,
+      "weightTransfer": 0.0
+    },
+    "72095": {
+      "type": "transfer",
+      "fromStationId": 72.0,
+      "toStationId": 95.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 95072.0
+    },
+    "73074": {
+      "type": "link",
+      "fromStationId": 73.0,
+      "toStationId": 74.0,
+      "weightTime": 115.0,
+      "weightTransfer": 0.0
+    },
+    "73146": {
+      "type": "transfer",
+      "fromStationId": 73.0,
+      "toStationId": 146.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 146073.0
+    },
+    "74075": {
+      "type": "link",
+      "fromStationId": 74.0,
+      "toStationId": 75.0,
+      "weightTime": 135.0,
+      "weightTransfer": 0.0
+    },
+    "75076": {
+      "type": "link",
+      "fromStationId": 75.0,
+      "toStationId": 76.0,
+      "weightTime": 170.0,
+      "weightTransfer": 0.0
+    },
+    "75119": {
+      "type": "transfer",
+      "fromStationId": 75.0,
+      "toStationId": 119.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 7.5119131E7
+    },
+    "75131": {
+      "type": "transfer",
+      "fromStationId": 75.0,
+      "toStationId": 131.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 7.5119131E7
+    },
+    "76077": {
+      "type": "link",
+      "fromStationId": 76.0,
+      "toStationId": 77.0,
+      "weightTime": 175.0,
+      "weightTransfer": 0.0
+    },
+    "76160": {
+      "type": "transfer",
+      "fromStationId": 76.0,
+      "toStationId": 160.0,
+      "weightTime": 360.0,
+      "weightTransfer": 1.0,
+      "transferId": 1.60076047E8
+    },
+    "77078": {
+      "type": "link",
+      "fromStationId": 77.0,
+      "toStationId": 78.0,
+      "weightTime": 160.0,
+      "weightTransfer": 0.0
+    },
+    "78079": {
+      "type": "link",
+      "fromStationId": 78.0,
+      "toStationId": 79.0,
+      "weightTime": 160.0,
+      "weightTransfer": 0.0
+    },
+    "78090": {
+      "type": "transfer",
+      "fromStationId": 78.0,
+      "toStationId": 90.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 78090.0
+    },
+    "79080": {
+      "type": "link",
+      "fromStationId": 79.0,
+      "toStationId": 80.0,
+      "weightTime": 135.0,
+      "weightTransfer": 0.0
+    },
+    "79141": {
+      "type": "transfer",
+      "fromStationId": 79.0,
+      "toStationId": 141.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 141079.0
+    },
+    "80081": {
+      "type": "link",
+      "fromStationId": 80.0,
+      "toStationId": 81.0,
+      "weightTime": 165.0,
+      "weightTransfer": 0.0
+    },
+    "81082": {
+      "type": "link",
+      "fromStationId": 81.0,
+      "toStationId": 82.0,
+      "weightTime": 160.0,
+      "weightTransfer": 0.0
+    },
+    "81115": {
+      "type": "transfer",
+      "fromStationId": 81.0,
+      "toStationId": 115.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 115081.0
+    },
+    "82071": {
+      "type": "link",
+      "fromStationId": 82.0,
+      "toStationId": 71.0,
+      "weightTime": 175.0,
+      "weightTransfer": 0.0
+    },
+    "83084": {
+      "type": "link",
+      "fromStationId": 83.0,
+      "toStationId": 84.0,
+      "weightTime": 160.0,
+      "weightTransfer": 0.0
+    },
+    "84085": {
+      "type": "link",
+      "fromStationId": 84.0,
+      "toStationId": 85.0,
+      "weightTime": 140.0,
+      "weightTransfer": 0.0
+    },
+    "85086": {
+      "type": "link",
+      "fromStationId": 85.0,
+      "toStationId": 86.0,
+      "weightTime": 135.0,
+      "weightTransfer": 0.0
+    },
+    "86087": {
+      "type": "link",
+      "fromStationId": 86.0,
+      "toStationId": 87.0,
+      "weightTime": 210.0,
+      "weightTransfer": 0.0
+    },
+    "86201": {
+      "type": "transfer",
+      "fromStationId": 86.0,
+      "toStationId": 201.0,
+      "weightTime": 240.0,
+      "weightTransfer": 1.0,
+      "transferId": 201086.0
+    },
+    "87088": {
+      "type": "link",
+      "fromStationId": 87.0,
+      "toStationId": 88.0,
+      "weightTime": 135.0,
+      "weightTransfer": 0.0
+    },
+    "88089": {
+      "type": "link",
+      "fromStationId": 88.0,
+      "toStationId": 89.0,
+      "weightTime": 140.0,
+      "weightTransfer": 0.0
+    },
+    "89090": {
+      "type": "link",
+      "fromStationId": 89.0,
+      "toStationId": 90.0,
+      "weightTime": 130.0,
+      "weightTransfer": 0.0
+    },
+    "90091": {
+      "type": "link",
+      "fromStationId": 90.0,
+      "toStationId": 91.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "91092": {
+      "type": "link",
+      "fromStationId": 91.0,
+      "toStationId": 92.0,
+      "weightTime": 100.0,
+      "weightTransfer": 0.0
+    },
+    "92093": {
+      "type": "link",
+      "fromStationId": 92.0,
+      "toStationId": 93.0,
+      "weightTime": 125.0,
+      "weightTransfer": 0.0
+    },
+    "92159": {
+      "type": "transfer",
+      "fromStationId": 92.0,
+      "toStationId": 159.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 1.59008092E8
+    },
+    "93094": {
+      "type": "link",
+      "fromStationId": 93.0,
+      "toStationId": 94.0,
+      "weightTime": 170.0,
+      "weightTransfer": 0.0
+    },
+    "93118": {
+      "type": "transfer",
+      "fromStationId": 93.0,
+      "toStationId": 118.0,
+      "weightTime": 120.0,
+      "weightTransfer": 1.0,
+      "transferId": 93118.0
+    },
+    "94095": {
+      "type": "link",
+      "fromStationId": 94.0,
+      "toStationId": 95.0,
+      "weightTime": 155.0,
+      "weightTransfer": 0.0
+    },
+    "94132": {
+      "type": "transfer",
+      "fromStationId": 94.0,
+      "toStationId": 132.0,
+      "weightTime": 120.0,
+      "weightTransfer": 1.0,
+      "transferId": 3.0132094E7
+    },
+    "95096": {
+      "type": "link",
+      "fromStationId": 95.0,
+      "toStationId": 96.0,
+      "weightTime": 130.0,
+      "weightTransfer": 0.0
+    },
+    "96097": {
+      "type": "link",
+      "fromStationId": 96.0,
+      "toStationId": 97.0,
+      "weightTime": 190.0,
+      "weightTransfer": 0.0
+    },
+    "97098": {
+      "type": "link",
+      "fromStationId": 97.0,
+      "toStationId": 98.0,
+      "weightTime": 185.0,
+      "weightTransfer": 0.0
+    },
+    "97215": {
+      "type": "transfer",
+      "fromStationId": 97.0,
+      "toStationId": 215.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 97215.0
+    },
+    "98099": {
+      "type": "link",
+      "fromStationId": 98.0,
+      "toStationId": 99.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "99100": {
+      "type": "link",
+      "fromStationId": 99.0,
+      "toStationId": 100.0,
+      "weightTime": 100.0,
+      "weightTransfer": 0.0
+    },
+    "100101": {
+      "type": "link",
+      "fromStationId": 100.0,
+      "toStationId": 101.0,
+      "weightTime": 140.0,
+      "weightTransfer": 0.0
+    },
+    "101102": {
+      "type": "link",
+      "fromStationId": 101.0,
+      "toStationId": 102.0,
+      "weightTime": 170.0,
+      "weightTransfer": 0.0
+    },
+    "102103": {
+      "type": "link",
+      "fromStationId": 102.0,
+      "toStationId": 103.0,
+      "weightTime": 115.0,
+      "weightTransfer": 0.0
+    },
+    "103104": {
+      "type": "link",
+      "fromStationId": 103.0,
+      "toStationId": 104.0,
+      "weightTime": 150.0,
+      "weightTransfer": 0.0
+    },
+    "104105": {
+      "type": "link",
+      "fromStationId": 104.0,
+      "toStationId": 105.0,
+      "weightTime": 170.0,
+      "weightTransfer": 0.0
+    },
+    "105106": {
+      "type": "link",
+      "fromStationId": 105.0,
+      "toStationId": 106.0,
+      "weightTime": 140.0,
+      "weightTransfer": 0.0
+    },
+    "106191": {
+      "type": "transfer",
+      "fromStationId": 106.0,
+      "toStationId": 191.0,
+      "weightTime": 120.0,
+      "weightTransfer": 1.0,
+      "transferId": 191106.0
+    },
+    "107108": {
+      "type": "link",
+      "fromStationId": 107.0,
+      "toStationId": 108.0,
+      "weightTime": 110.0,
+      "weightTransfer": 0.0
+    },
+    "108109": {
+      "type": "link",
+      "fromStationId": 108.0,
+      "toStationId": 109.0,
+      "weightTime": 175.0,
+      "weightTransfer": 0.0
+    },
+    "109195": {
+      "type": "link",
+      "fromStationId": 109.0,
+      "toStationId": 195.0,
+      "weightTime": 100.0,
+      "weightTransfer": 0.0
+    },
+    "110111": {
+      "type": "link",
+      "fromStationId": 110.0,
+      "toStationId": 111.0,
+      "weightTime": 185.0,
+      "weightTransfer": 0.0
+    },
+    "111112": {
+      "type": "link",
+      "fromStationId": 111.0,
+      "toStationId": 112.0,
+      "weightTime": 200.0,
+      "weightTransfer": 0.0
+    },
+    "111208": {
+      "type": "transfer",
+      "fromStationId": 111.0,
+      "toStationId": 208.0,
+      "weightTime": 720.0,
+      "weightTransfer": 1.0,
+      "transferId": 208111.0
+    },
+    "112113": {
+      "type": "link",
+      "fromStationId": 112.0,
+      "toStationId": 113.0,
+      "weightTime": 150.0,
+      "weightTransfer": 0.0
+    },
+    "112210": {
+      "type": "transfer",
+      "fromStationId": 112.0,
+      "toStationId": 210.0,
+      "weightTime": 720.0,
+      "weightTransfer": 1.0,
+      "transferId": 2.4024311221E11
+    },
+    "112240": {
+      "type": "transfer",
+      "fromStationId": 112.0,
+      "toStationId": 240.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 2.4024311221E11
+    },
+    "112243": {
+      "type": "transfer",
+      "fromStationId": 112.0,
+      "toStationId": 243.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 2.4024311221E11
+    },
+    "113114": {
+      "type": "link",
+      "fromStationId": 113.0,
+      "toStationId": 114.0,
+      "weightTime": 130.0,
+      "weightTransfer": 0.0
+    },
+    "114115": {
+      "type": "link",
+      "fromStationId": 114.0,
+      "toStationId": 115.0,
+      "weightTime": 125.0,
+      "weightTransfer": 0.0
+    },
+    "115116": {
+      "type": "link",
+      "fromStationId": 115.0,
+      "toStationId": 116.0,
+      "weightTime": 165.0,
+      "weightTransfer": 0.0
+    },
+    "116117": {
+      "type": "link",
+      "fromStationId": 116.0,
+      "toStationId": 117.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "116143": {
+      "type": "transfer",
+      "fromStationId": 116.0,
+      "toStationId": 143.0,
+      "weightTime": 240.0,
+      "weightTransfer": 1.0,
+      "transferId": 1.43116028E8
+    },
+    "117118": {
+      "type": "link",
+      "fromStationId": 117.0,
+      "toStationId": 118.0,
+      "weightTime": 90.0,
+      "weightTransfer": 0.0
+    },
+    "118119": {
+      "type": "link",
+      "fromStationId": 118.0,
+      "toStationId": 119.0,
+      "weightTime": 170.0,
+      "weightTransfer": 0.0
+    },
+    "119120": {
+      "type": "link",
+      "fromStationId": 119.0,
+      "toStationId": 120.0,
+      "weightTime": 145.0,
+      "weightTransfer": 0.0
+    },
+    "119131": {
+      "type": "transfer",
+      "fromStationId": 119.0,
+      "toStationId": 131.0,
+      "weightTime": 240.0,
+      "weightTransfer": 1.0,
+      "transferId": 7.5119131E7
+    },
+    "120121": {
+      "type": "link",
+      "fromStationId": 120.0,
+      "toStationId": 121.0,
+      "weightTime": 150.0,
+      "weightTransfer": 0.0
+    },
+    "120162": {
+      "type": "transfer",
+      "fromStationId": 120.0,
+      "toStationId": 162.0,
+      "weightTime": 300.0,
+      "weightTransfer": 1.0,
+      "transferId": 120162.0
+    },
+    "121122": {
+      "type": "link",
+      "fromStationId": 121.0,
+      "toStationId": 122.0,
+      "weightTime": 245.0,
+      "weightTransfer": 0.0
+    },
+    "122123": {
+      "type": "link",
+      "fromStationId": 122.0,
+      "toStationId": 123.0,
+      "weightTime": 185.0,
+      "weightTransfer": 0.0
+    },
+    "123124": {
+      "type": "link",
+      "fromStationId": 123.0,
+      "toStationId": 124.0,
+      "weightTime": 185.0,
+      "weightTransfer": 0.0
+    },
+    "124125": {
+      "type": "link",
+      "fromStationId": 124.0,
+      "toStationId": 125.0,
+      "weightTime": 190.0,
+      "weightTransfer": 0.0
+    },
+    "125189": {
+      "type": "link",
+      "fromStationId": 125.0,
+      "toStationId": 189.0,
+      "weightTime": 260.0,
+      "weightTransfer": 0.0
+    },
+    "126127": {
+      "type": "link",
+      "fromStationId": 126.0,
+      "toStationId": 127.0,
+      "weightTime": 150.0,
+      "weightTransfer": 0.0
+    },
+    "127128": {
+      "type": "link",
+      "fromStationId": 127.0,
+      "toStationId": 128.0,
+      "weightTime": 195.0,
+      "weightTransfer": 0.0
+    },
+    "128129": {
+      "type": "link",
+      "fromStationId": 128.0,
+      "toStationId": 129.0,
+      "weightTime": 150.0,
+      "weightTransfer": 0.0
+    },
+    "128225": {
+      "type": "transfer",
+      "fromStationId": 128.0,
+      "toStationId": 225.0,
+      "weightTime": 600.0,
+      "weightTransfer": 1.0,
+      "transferId": 225128.0
+    },
+    "129130": {
+      "type": "link",
+      "fromStationId": 129.0,
+      "toStationId": 130.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "130131": {
+      "type": "link",
+      "fromStationId": 130.0,
+      "toStationId": 131.0,
+      "weightTime": 175.0,
+      "weightTransfer": 0.0
+    },
+    "130161": {
+      "type": "transfer",
+      "fromStationId": 130.0,
+      "toStationId": 161.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 130161.0
+    },
+    "131132": {
+      "type": "link",
+      "fromStationId": 131.0,
+      "toStationId": 132.0,
+      "weightTime": 160.0,
+      "weightTransfer": 0.0
+    },
+    "133134": {
+      "type": "link",
+      "fromStationId": 133.0,
+      "toStationId": 134.0,
+      "weightTime": 150.0,
+      "weightTransfer": 0.0
+    },
+    "134135": {
+      "type": "link",
+      "fromStationId": 134.0,
+      "toStationId": 135.0,
+      "weightTime": 195.0,
+      "weightTransfer": 0.0
+    },
+    "135136": {
+      "type": "link",
+      "fromStationId": 135.0,
+      "toStationId": 136.0,
+      "weightTime": 165.0,
+      "weightTransfer": 0.0
+    },
+    "136137": {
+      "type": "link",
+      "fromStationId": 136.0,
+      "toStationId": 137.0,
+      "weightTime": 145.0,
+      "weightTransfer": 0.0
+    },
+    "136202": {
+      "type": "transfer",
+      "fromStationId": 136.0,
+      "toStationId": 202.0,
+      "weightTime": 420.0,
+      "weightTransfer": 1.0,
+      "transferId": 202136.0
+    },
+    "137138": {
+      "type": "link",
+      "fromStationId": 137.0,
+      "toStationId": 138.0,
+      "weightTime": 200.0,
+      "weightTransfer": 0.0
+    },
+    "138139": {
+      "type": "link",
+      "fromStationId": 138.0,
+      "toStationId": 139.0,
+      "weightTime": 110.0,
+      "weightTransfer": 0.0
+    },
+    "139140": {
+      "type": "link",
+      "fromStationId": 139.0,
+      "toStationId": 140.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "140141": {
+      "type": "link",
+      "fromStationId": 140.0,
+      "toStationId": 141.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "141142": {
+      "type": "link",
+      "fromStationId": 141.0,
+      "toStationId": 142.0,
+      "weightTime": 160.0,
+      "weightTransfer": 0.0
+    },
+    "142143": {
+      "type": "link",
+      "fromStationId": 142.0,
+      "toStationId": 143.0,
+      "weightTime": 110.0,
+      "weightTransfer": 0.0
+    },
+    "142158": {
+      "type": "transfer",
+      "fromStationId": 142.0,
+      "toStationId": 158.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 158142.0
+    },
+    "143144": {
+      "type": "link",
+      "fromStationId": 143.0,
+      "toStationId": 144.0,
+      "weightTime": 150.0,
+      "weightTransfer": 0.0
+    },
+    "144145": {
+      "type": "link",
+      "fromStationId": 144.0,
+      "toStationId": 145.0,
+      "weightTime": 145.0,
+      "weightTransfer": 0.0
+    },
+    "145146": {
+      "type": "link",
+      "fromStationId": 145.0,
+      "toStationId": 146.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "146147": {
+      "type": "link",
+      "fromStationId": 146.0,
+      "toStationId": 147.0,
+      "weightTime": 205.0,
+      "weightTransfer": 0.0
+    },
+    "147148": {
+      "type": "link",
+      "fromStationId": 147.0,
+      "toStationId": 148.0,
+      "weightTime": 225.0,
+      "weightTransfer": 0.0
+    },
+    "148149": {
+      "type": "link",
+      "fromStationId": 148.0,
+      "toStationId": 149.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "148217": {
+      "type": "transfer",
+      "fromStationId": 148.0,
+      "toStationId": 217.0,
+      "weightTime": 720.0,
+      "weightTransfer": 1.0,
+      "transferId": 148217.0
+    },
+    "149150": {
+      "type": "link",
+      "fromStationId": 149.0,
+      "toStationId": 150.0,
+      "weightTime": 140.0,
+      "weightTransfer": 0.0
+    },
+    "150151": {
+      "type": "link",
+      "fromStationId": 150.0,
+      "toStationId": 151.0,
+      "weightTime": 140.0,
+      "weightTransfer": 0.0
+    },
+    "151152": {
+      "type": "link",
+      "fromStationId": 151.0,
+      "toStationId": 152.0,
+      "weightTime": 140.0,
+      "weightTransfer": 0.0
+    },
+    "151172": {
+      "type": "transfer",
+      "fromStationId": 151.0,
+      "toStationId": 172.0,
+      "weightTime": 150.0,
+      "weightTransfer": 1.0,
+      "transferId": 151172.0
+    },
+    "152153": {
+      "type": "link",
+      "fromStationId": 152.0,
+      "toStationId": 153.0,
+      "weightTime": 205.0,
+      "weightTransfer": 0.0
+    },
+    "153154": {
+      "type": "link",
+      "fromStationId": 153.0,
+      "toStationId": 154.0,
+      "weightTime": 145.0,
+      "weightTransfer": 0.0
+    },
+    "154155": {
+      "type": "link",
+      "fromStationId": 154.0,
+      "toStationId": 155.0,
+      "weightTime": 145.0,
+      "weightTransfer": 0.0
+    },
+    "155156": {
+      "type": "link",
+      "fromStationId": 155.0,
+      "toStationId": 156.0,
+      "weightTime": 145.0,
+      "weightTransfer": 0.0
+    },
+    "156157": {
+      "type": "link",
+      "fromStationId": 156.0,
+      "toStationId": 157.0,
+      "weightTime": 190.0,
+      "weightTransfer": 0.0
+    },
+    "157173": {
+      "type": "transfer",
+      "fromStationId": 157.0,
+      "toStationId": 173.0,
+      "weightTime": 120.0,
+      "weightTransfer": 1.0,
+      "transferId": 173157.0
+    },
+    "158159": {
+      "type": "link",
+      "fromStationId": 158.0,
+      "toStationId": 159.0,
+      "weightTime": 160.0,
+      "weightTransfer": 0.0
+    },
+    "159160": {
+      "type": "link",
+      "fromStationId": 159.0,
+      "toStationId": 160.0,
+      "weightTime": 160.0,
+      "weightTransfer": 0.0
+    },
+    "160161": {
+      "type": "link",
+      "fromStationId": 160.0,
+      "toStationId": 161.0,
+      "weightTime": 175.0,
+      "weightTransfer": 0.0
+    },
+    "161162": {
+      "type": "link",
+      "fromStationId": 161.0,
+      "toStationId": 162.0,
+      "weightTime": 165.0,
+      "weightTransfer": 0.0
+    },
+    "162163": {
+      "type": "link",
+      "fromStationId": 162.0,
+      "toStationId": 163.0,
+      "weightTime": 145.0,
+      "weightTransfer": 0.0
+    },
+    "163164": {
+      "type": "link",
+      "fromStationId": 163.0,
+      "toStationId": 164.0,
+      "weightTime": 130.0,
+      "weightTransfer": 0.0
+    },
+    "163220": {
+      "type": "transfer",
+      "fromStationId": 163.0,
+      "toStationId": 220.0,
+      "weightTime": 780.0,
+      "weightTransfer": 1.0,
+      "transferId": 220163.0
+    },
+    "164165": {
+      "type": "link",
+      "fromStationId": 164.0,
+      "toStationId": 165.0,
+      "weightTime": 240.0,
+      "weightTransfer": 0.0
+    },
+    "165166": {
+      "type": "link",
+      "fromStationId": 165.0,
+      "toStationId": 166.0,
+      "weightTime": 160.0,
+      "weightTransfer": 0.0
+    },
+    "166167": {
+      "type": "link",
+      "fromStationId": 166.0,
+      "toStationId": 167.0,
+      "weightTime": 170.0,
+      "weightTransfer": 0.0
+    },
+    "167168": {
+      "type": "link",
+      "fromStationId": 167.0,
+      "toStationId": 168.0,
+      "weightTime": 185.0,
+      "weightTransfer": 0.0
+    },
+    "168169": {
+      "type": "link",
+      "fromStationId": 168.0,
+      "toStationId": 169.0,
+      "weightTime": 140.0,
+      "weightTransfer": 0.0
+    },
+    "169183": {
+      "type": "link",
+      "fromStationId": 169.0,
+      "toStationId": 183.0,
+      "weightTime": 150.0,
+      "weightTransfer": 0.0
+    },
+    "170171": {
+      "type": "link",
+      "fromStationId": 170.0,
+      "toStationId": 171.0,
+      "weightTime": 175.0,
+      "weightTransfer": 0.0
+    },
+    "171172": {
+      "type": "link",
+      "fromStationId": 171.0,
+      "toStationId": 172.0,
+      "weightTime": 125.0,
+      "weightTransfer": 0.0
+    },
+    "173174": {
+      "type": "link",
+      "fromStationId": 173.0,
+      "toStationId": 174.0,
+      "weightTime": 240.0,
+      "weightTransfer": 0.0
+    },
+    "174175": {
+      "type": "link",
+      "fromStationId": 174.0,
+      "toStationId": 175.0,
+      "weightTime": 100.0,
+      "weightTransfer": 0.0
+    },
+    "175176": {
+      "type": "link",
+      "fromStationId": 175.0,
+      "toStationId": 176.0,
+      "weightTime": 105.0,
+      "weightTransfer": 0.0
+    },
+    "176177": {
+      "type": "link",
+      "fromStationId": 176.0,
+      "toStationId": 177.0,
+      "weightTime": 115.0,
+      "weightTransfer": 0.0
+    },
+    "178179": {
+      "type": "link",
+      "fromStationId": 178.0,
+      "toStationId": 179.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "179180": {
+      "type": "link",
+      "fromStationId": 179.0,
+      "toStationId": 180.0,
+      "weightTime": 170.0,
+      "weightTransfer": 0.0
+    },
+    "180188": {
+      "type": "link",
+      "fromStationId": 180.0,
+      "toStationId": 188.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "181182": {
+      "type": "link",
+      "fromStationId": 181.0,
+      "toStationId": 182.0,
+      "weightTime": 150.0,
+      "weightTransfer": 0.0
+    },
+    "181232": {
+      "type": "link",
+      "fromStationId": 181.0,
+      "toStationId": 232.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "182158": {
+      "type": "link",
+      "fromStationId": 182.0,
+      "toStationId": 158.0,
+      "weightTime": 150.0,
+      "weightTransfer": 0.0
+    },
+    "183184": {
+      "type": "link",
+      "fromStationId": 183.0,
+      "toStationId": 184.0,
+      "weightTime": 130.0,
+      "weightTransfer": 0.0
+    },
+    "184185": {
+      "type": "link",
+      "fromStationId": 184.0,
+      "toStationId": 185.0,
+      "weightTime": 110.0,
+      "weightTransfer": 0.0
+    },
+    "186126": {
+      "type": "link",
+      "fromStationId": 186.0,
+      "toStationId": 126.0,
+      "weightTime": 200.0,
+      "weightTransfer": 0.0
+    },
+    "189190": {
+      "type": "link",
+      "fromStationId": 189.0,
+      "toStationId": 190.0,
+      "weightTime": 200.0,
+      "weightTransfer": 0.0
+    },
+    "190197": {
+      "type": "link",
+      "fromStationId": 190.0,
+      "toStationId": 197.0,
+      "weightTime": 140.0,
+      "weightTransfer": 0.0
+    },
+    "191192": {
+      "type": "link",
+      "fromStationId": 191.0,
+      "toStationId": 192.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "192173": {
+      "type": "link",
+      "fromStationId": 192.0,
+      "toStationId": 173.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "193194": {
+      "type": "link",
+      "fromStationId": 193.0,
+      "toStationId": 194.0,
+      "weightTime": 329.0,
+      "weightTransfer": 0.0
+    },
+    "193211": {
+      "type": "transfer",
+      "fromStationId": 193.0,
+      "toStationId": 211.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 2.39193211E8
+    },
+    "193239": {
+      "type": "transfer",
+      "fromStationId": 193.0,
+      "toStationId": 239.0,
+      "weightTime": 200.0,
+      "weightTransfer": 1.0,
+      "transferId": 2.39193211E8
+    },
+    "194235": {
+      "type": "link",
+      "fromStationId": 194.0,
+      "toStationId": 235.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "195110": {
+      "type": "link",
+      "fromStationId": 195.0,
+      "toStationId": 110.0,
+      "weightTime": 185.0,
+      "weightTransfer": 0.0
+    },
+    "196199": {
+      "type": "link",
+      "fromStationId": 196.0,
+      "toStationId": 199.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "198033": {
+      "type": "link",
+      "fromStationId": 198.0,
+      "toStationId": 33.0,
+      "weightTime": 140.0,
+      "weightTransfer": 0.0
+    },
+    "199200": {
+      "type": "link",
+      "fromStationId": 199.0,
+      "toStationId": 200.0,
+      "weightTime": 145.0,
+      "weightTransfer": 0.0
+    },
+    "201202": {
+      "type": "link",
+      "fromStationId": 201.0,
+      "toStationId": 202.0,
+      "weightTime": 290.0,
+      "weightTransfer": 0.0
+    },
+    "202203": {
+      "type": "link",
+      "fromStationId": 202.0,
+      "toStationId": 203.0,
+      "weightTime": 170.0,
+      "weightTransfer": 0.0
+    },
+    "203204": {
+      "type": "link",
+      "fromStationId": 203.0,
+      "toStationId": 204.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "204205": {
+      "type": "link",
+      "fromStationId": 204.0,
+      "toStationId": 205.0,
+      "weightTime": 210.0,
+      "weightTransfer": 0.0
+    },
+    "205206": {
+      "type": "link",
+      "fromStationId": 205.0,
+      "toStationId": 206.0,
+      "weightTime": 265.0,
+      "weightTransfer": 0.0
+    },
+    "206207": {
+      "type": "link",
+      "fromStationId": 206.0,
+      "toStationId": 207.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "207208": {
+      "type": "link",
+      "fromStationId": 207.0,
+      "toStationId": 208.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "208209": {
+      "type": "link",
+      "fromStationId": 208.0,
+      "toStationId": 209.0,
+      "weightTime": 160.0,
+      "weightTransfer": 0.0
+    },
+    "209210": {
+      "type": "link",
+      "fromStationId": 209.0,
+      "toStationId": 210.0,
+      "weightTime": 160.0,
+      "weightTransfer": 0.0
+    },
+    "210211": {
+      "type": "link",
+      "fromStationId": 210.0,
+      "toStationId": 211.0,
+      "weightTime": 225.0,
+      "weightTransfer": 0.0
+    },
+    "210240": {
+      "type": "transfer",
+      "fromStationId": 210.0,
+      "toStationId": 240.0,
+      "weightTime": 720.0,
+      "weightTransfer": 1.0,
+      "transferId": 2.4024311221E11
+    },
+    "210243": {
+      "type": "transfer",
+      "fromStationId": 210.0,
+      "toStationId": 243.0,
+      "weightTime": 720.0,
+      "weightTransfer": 1.0,
+      "transferId": 2.4024311221E11
+    },
+    "211212": {
+      "type": "link",
+      "fromStationId": 211.0,
+      "toStationId": 212.0,
+      "weightTime": 150.0,
+      "weightTransfer": 0.0
+    },
+    "211239": {
+      "type": "transfer",
+      "fromStationId": 211.0,
+      "toStationId": 239.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 2.39193211E8
+    },
+    "212213": {
+      "type": "link",
+      "fromStationId": 212.0,
+      "toStationId": 213.0,
+      "weightTime": 150.0,
+      "weightTransfer": 0.0
+    },
+    "213214": {
+      "type": "link",
+      "fromStationId": 213.0,
+      "toStationId": 214.0,
+      "weightTime": 220.0,
+      "weightTransfer": 0.0
+    },
+    "214215": {
+      "type": "link",
+      "fromStationId": 214.0,
+      "toStationId": 215.0,
+      "weightTime": 240.0,
+      "weightTransfer": 0.0
+    },
+    "215216": {
+      "type": "link",
+      "fromStationId": 215.0,
+      "toStationId": 216.0,
+      "weightTime": 230.0,
+      "weightTransfer": 0.0
+    },
+    "216217": {
+      "type": "link",
+      "fromStationId": 216.0,
+      "toStationId": 217.0,
+      "weightTime": 140.0,
+      "weightTransfer": 0.0
+    },
+    "217218": {
+      "type": "link",
+      "fromStationId": 217.0,
+      "toStationId": 218.0,
+      "weightTime": 200.0,
+      "weightTransfer": 0.0
+    },
+    "218219": {
+      "type": "link",
+      "fromStationId": 218.0,
+      "toStationId": 219.0,
+      "weightTime": 150.0,
+      "weightTransfer": 0.0
+    },
+    "219220": {
+      "type": "link",
+      "fromStationId": 219.0,
+      "toStationId": 220.0,
+      "weightTime": 150.0,
+      "weightTransfer": 0.0
+    },
+    "220221": {
+      "type": "link",
+      "fromStationId": 220.0,
+      "toStationId": 221.0,
+      "weightTime": 155.0,
+      "weightTransfer": 0.0
+    },
+    "221222": {
+      "type": "link",
+      "fromStationId": 221.0,
+      "toStationId": 222.0,
+      "weightTime": 170.0,
+      "weightTransfer": 0.0
+    },
+    "222223": {
+      "type": "link",
+      "fromStationId": 222.0,
+      "toStationId": 223.0,
+      "weightTime": 165.0,
+      "weightTransfer": 0.0
+    },
+    "223224": {
+      "type": "link",
+      "fromStationId": 223.0,
+      "toStationId": 224.0,
+      "weightTime": 210.0,
+      "weightTransfer": 0.0
+    },
+    "224225": {
+      "type": "link",
+      "fromStationId": 224.0,
+      "toStationId": 225.0,
+      "weightTime": 160.0,
+      "weightTransfer": 0.0
+    },
+    "225226": {
+      "type": "link",
+      "fromStationId": 225.0,
+      "toStationId": 226.0,
+      "weightTime": 170.0,
+      "weightTransfer": 0.0
+    },
+    "226227": {
+      "type": "link",
+      "fromStationId": 226.0,
+      "toStationId": 227.0,
+      "weightTime": 190.0,
+      "weightTransfer": 0.0
+    },
+    "227228": {
+      "type": "link",
+      "fromStationId": 227.0,
+      "toStationId": 228.0,
+      "weightTime": 175.0,
+      "weightTransfer": 0.0
+    },
+    "228229": {
+      "type": "link",
+      "fromStationId": 228.0,
+      "toStationId": 229.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "229230": {
+      "type": "link",
+      "fromStationId": 229.0,
+      "toStationId": 230.0,
+      "weightTime": 195.0,
+      "weightTransfer": 0.0
+    },
+    "230231": {
+      "type": "link",
+      "fromStationId": 230.0,
+      "toStationId": 231.0,
+      "weightTime": 210.0,
+      "weightTransfer": 0.0
+    },
+    "231201": {
+      "type": "link",
+      "fromStationId": 231.0,
+      "toStationId": 201.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "232233": {
+      "type": "link",
+      "fromStationId": 232.0,
+      "toStationId": 233.0,
+      "weightTime": 150.0,
+      "weightTransfer": 0.0
+    },
+    "233234": {
+      "type": "link",
+      "fromStationId": 233.0,
+      "toStationId": 234.0,
+      "weightTime": 160.0,
+      "weightTransfer": 0.0
+    },
+    "234137": {
+      "type": "transfer",
+      "fromStationId": 234.0,
+      "toStationId": 137.0,
+      "weightTime": 60.0,
+      "weightTransfer": 1.0,
+      "transferId": 234137.0
+    },
+    "234247": {
+      "type": "link",
+      "fromStationId": 234.0,
+      "toStationId": 247.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "235236": {
+      "type": "link",
+      "fromStationId": 235.0,
+      "toStationId": 236.0,
+      "weightTime": 240.0,
+      "weightTransfer": 0.0
+    },
+    "236237": {
+      "type": "link",
+      "fromStationId": 236.0,
+      "toStationId": 237.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "237250": {
+      "type": "link",
+      "fromStationId": 237.0,
+      "toStationId": 250.0,
+      "weightTime": 130.0,
+      "weightTransfer": 0.0
+    },
+    "238239": {
+      "type": "link",
+      "fromStationId": 238.0,
+      "toStationId": 239.0,
+      "weightTime": 209.0,
+      "weightTransfer": 0.0
+    },
+    "239240": {
+      "type": "link",
+      "fromStationId": 239.0,
+      "toStationId": 240.0,
+      "weightTime": 310.0,
+      "weightTransfer": 0.0
+    },
+    "240241": {
+      "type": "link",
+      "fromStationId": 240.0,
+      "toStationId": 241.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "241242": {
+      "type": "link",
+      "fromStationId": 241.0,
+      "toStationId": 242.0,
+      "weightTime": 140.0,
+      "weightTransfer": 0.0
+    },
+    "241244": {
+      "type": "transfer",
+      "fromStationId": 241.0,
+      "toStationId": 244.0,
+      "weightTime": 200.0,
+      "weightTransfer": 1.0,
+      "transferId": 241244.0
+    },
+    "242245": {
+      "type": "transfer",
+      "fromStationId": 242.0,
+      "toStationId": 245.0,
+      "weightTime": 200.0,
+      "weightTransfer": 1.0,
+      "transferId": 2.5242245E7
+    },
+    "242258": {
+      "type": "link",
+      "fromStationId": 242.0,
+      "toStationId": 258.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "243193": {
+      "type": "link",
+      "fromStationId": 243.0,
+      "toStationId": 193.0,
+      "weightTime": 310.0,
+      "weightTransfer": 0.0
+    },
+    "243240": {
+      "type": "transfer",
+      "fromStationId": 243.0,
+      "toStationId": 240.0,
+      "weightTime": 200.0,
+      "weightTransfer": 1.0,
+      "transferId": 2.4024311221E11
+    },
+    "243244": {
+      "type": "link",
+      "fromStationId": 243.0,
+      "toStationId": 244.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "244245": {
+      "type": "link",
+      "fromStationId": 244.0,
+      "toStationId": 245.0,
+      "weightTime": 140.0,
+      "weightTransfer": 0.0
+    },
+    "245259": {
+      "type": "link",
+      "fromStationId": 245.0,
+      "toStationId": 259.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "247203": {
+      "type": "transfer",
+      "fromStationId": 247.0,
+      "toStationId": 203.0,
+      "weightTime": 600.0,
+      "weightTransfer": 1.0,
+      "transferId": 203247.0
+    },
+    "247248": {
+      "type": "link",
+      "fromStationId": 247.0,
+      "toStationId": 248.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "248249": {
+      "type": "link",
+      "fromStationId": 248.0,
+      "toStationId": 249.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "250251": {
+      "type": "link",
+      "fromStationId": 250.0,
+      "toStationId": 251.0,
+      "weightTime": 240.0,
+      "weightTransfer": 0.0
+    },
+    "251252": {
+      "type": "link",
+      "fromStationId": 251.0,
+      "toStationId": 252.0,
+      "weightTime": 160.0,
+      "weightTransfer": 0.0
+    },
+    "252253": {
+      "type": "link",
+      "fromStationId": 252.0,
+      "toStationId": 253.0,
+      "weightTime": 160.0,
+      "weightTransfer": 0.0
+    },
+    "253254": {
+      "type": "link",
+      "fromStationId": 253.0,
+      "toStationId": 254.0,
+      "weightTime": 160.0,
+      "weightTransfer": 0.0
+    },
+    "254255": {
+      "type": "link",
+      "fromStationId": 254.0,
+      "toStationId": 255.0,
+      "weightTime": 110.0,
+      "weightTransfer": 0.0
+    },
+    "255256": {
+      "type": "link",
+      "fromStationId": 255.0,
+      "toStationId": 256.0,
+      "weightTime": 120.0,
+      "weightTransfer": 0.0
+    },
+    "257246": {
+      "type": "link",
+      "fromStationId": 257.0,
+      "toStationId": 246.0,
+      "weightTime": 180.0,
+      "weightTransfer": 0.0
+    },
+    "258140": {
+      "type": "transfer",
+      "fromStationId": 258.0,
+      "toStationId": 140.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 1.40258259E8
+    },
+    "259140": {
+      "type": "transfer",
+      "fromStationId": 259.0,
+      "toStationId": 140.0,
+      "weightTime": 180.0,
+      "weightTransfer": 1.0,
+      "transferId": 1.40258259E8
+    },
+    "259258": {
+      "type": "transfer",
+      "fromStationId": 259.0,
+      "toStationId": 258.0,
+      "weightTime": 29.0,
+      "weightTransfer": 1.0,
+      "transferId": 1.40258259E8
+    }
+  }
+}
+

@@ -1,0 +1,6 @@
+This bot allows for building routes of any complexity between stations of the Moscow subway.
+
+For building a route, specify departure and arrival stations separated by '>', for example, %s > %s
+
+Note that multiple stations on different lines may have the same names. For clarifying a line, specify its short name in parenthesis after the station name, as follows: Станция (Имя). Line abbreviations are as follows:
+

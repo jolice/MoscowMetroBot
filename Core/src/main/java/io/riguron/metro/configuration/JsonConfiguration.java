@@ -9,22 +9,8 @@ import io.riguron.metro.data.adapter.StationDeserializer;
 import io.riguron.metro.data.deserializer.GsonDeserializer;
 import io.riguron.metro.data.deserializer.PlainDeserializer;
 import io.riguron.metro.model.Line;
-import io.riguron.metro.model.link.Link;
-import io.riguron.metro.data.adapter.IndexedDeserializer;
-import io.riguron.metro.data.adapter.LinkDeserializer;
-import io.riguron.metro.data.adapter.StationDeserializer;
-import io.riguron.metro.data.deserializer.GsonDeserializer;
-import io.riguron.metro.data.deserializer.PlainDeserializer;
-import io.riguron.metro.model.Line;
 import io.riguron.metro.model.MetroData;
 import io.riguron.metro.model.Station;
-import io.riguron.metro.model.link.Link;
-import io.riguron.metro.data.adapter.IndexedDeserializer;
-import io.riguron.metro.data.adapter.LinkDeserializer;
-import io.riguron.metro.data.adapter.StationDeserializer;
-import io.riguron.metro.data.deserializer.GsonDeserializer;
-import io.riguron.metro.data.deserializer.PlainDeserializer;
-import io.riguron.metro.model.Line;
 import io.riguron.metro.model.link.Link;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -35,6 +21,7 @@ import java.util.Map;
 public class JsonConfiguration {
 
     @Bean
+
     public Gson gson() {
         return new GsonBuilder().
                 registerTypeAdapter(new TypeToken<Map<Integer, Line>>() {
